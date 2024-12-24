@@ -1,0 +1,137 @@
+
+            <div>
+
+<div id="page_header_catalog">
+                <h1>	<span class="cas_number_block">
+		CAS Number: <span class="cas_number">1217655-83-8</span>
+	</span>
+	 Product Catalog</h1>
+        </div>
+
+<div class="product_list_header"><div class="catalog_number">15-7333</div><span class="category">Phosphorus</span> <span class="name"><strong>›</strong> <span id="header_description">2-{2-[(2S,5S)-2,5-Diethyl-1-phospholano]phenyl}1,3-dioxolane, min. 97%</span></span></div>
+<div class="column_pad">
+    <div id="tabs_container">
+        <div id="tabs">
+            <a href="/catalog/v/15-7333/52/phosphorus_1217655-83-8" onclick="changeBlock(1);return false;" id="tab1" class="tab_up" title="2-{2-[(2S,5S)-2,5-Diethyl-1-phospholano]phenyl}1,3-dioxolane, min. 97%">Product Detail</a>
+                            <a href="/catalog/v3/15-7333/52/phosphorus_1217655-83-8" onclick="changeBlock(3);return false;" id="tab3" class="tab_down">Safety Data Sheet</a>
+                            <a href="/catalog/v4/15-7333/52/phosphorus_1217655-83-8" onclick="changeBlock(4);return false;" id="tab4" class="tab_down" title="2-{2-[(2S,5S)-2,5-Diethyl-1-phospholano]phenyl}1,3-dioxolane, min. 97%">Certificates of Analysis</a>
+                        <div class="fix_float"></div>
+        </div>
+        <div id="section1" class="show">
+            <div class="frame">
+                <div class="properties">
+                    <table cellpadding="4" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td class="title top">CAS Number:</td>
+                                <td class="data top">1217655-83-8</td>
+                            </tr>
+                            <tr>
+                                <td class="title">MDL Number:</td>
+                                <td class="data">MFCD09265099</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Molecular Formula:</td>
+                                <td class="data">C<sub>1</sub><sub>7</sub>H<sub>2</sub><sub>5</sub>O<sub>2</sub>P</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Formula Weight:</td>
+                                <td class="data">292.35</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Chemical Formula:</td>
+                                <td class="data">C<sub>1</sub><sub>7</sub>H<sub>2</sub><sub>5</sub>O<sub>2</sub>P</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Color and Form:</td>
+                                <td class="data">pale yellow to colorless liq.</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Note:</td>
+                                <td class="data">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p><strong>Stability:</strong> air sensitive</p>                        <div class="product_block">
+                            <p></p><h4>Related Categories:</h4><p></p>
+                            <ul class="related_categories">
+                                                                    <li>
+                                        <a href="/catalog/family/DUPHOS/" onclick="ga('send', 'event', 'Products', 'click', 'DUPHOS');">
+                                            DUPHOS                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="/catalog/ligands.php" onclick="ga('send', 'event', 'Products', 'click', 'Ligands');">
+                                            Ligands                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="/catalog/family/Phosphine/" onclick="ga('send', 'event', 'Products', 'click', 'Phosphine');">
+                                            Phosphine                                        </a>
+                                    </li>
+                                                                </ul>
+                        </div>
+                                        </div>
+
+                <div class="price_block">
+                    <img src="/uploads/web_structures/15-7333.gif" alt="15-7333" class="detail_img">    <form id="purchase_form" action="/catalog/" method="get">
+    <table class="price_table" summary="Table of prices with form to input quantity.">
+        <tbody>
+            <tr>
+                <th>Size</th>
+                <th>Price</th>
+                <th>Availability</th>
+                <th>Quantity</th>
+            </tr>
+                            <tr class="odd">
+                    <td class="size">100mg</td>
+                    <td class="price">
+                        <span class="currency_symbol">US$</span>93.00                    </td>
+                    <td class="availability">
+                        <div class="summary">In Stock</div>
+                        <div class="detail" style="display: none;">
+                                                    </div>
+                        <div class="warning" style="display: none;">
+                                                    </div>
+                    </td>
+                    <td class="quantity">
+                        <input type="text" name="quantity_17207" value="">
+                    </td>
+                </tr>
+                                <tr class="even">
+                    <td class="size">500mg</td>
+                    <td class="price">
+                        <span class="currency_symbol">US$</span>365.00                    </td>
+                    <td class="availability">
+                        <div class="summary">In Stock</div>
+                        <div class="detail" style="display: none;">
+                                                    </div>
+                        <div class="warning" style="display: none;">
+                                                    </div>
+                    </td>
+                    <td class="quantity">
+                        <input type="text" name="quantity_17209" value="">
+                    </td>
+                </tr>
+                        </tbody>
+    </table>
+    <div class="purchase_form_section">
+        <a class="block_quote" href="/catalog/quote.php?item_id=6543"><img src="/images/buttons/bulk_quote_sm.jpg" alt="Get a Bulk Quote"></a>
+        <input type="hidden" name="currency_type_id" value="1">
+        <input type="hidden" name="item_id" value="6543">
+        <input type="hidden" name="page_function" value="add_to_cart">
+        <input type="image" src="/images/buttons/add_to_cart.gif" class="purchase_submit_button" alt="Add to Cart">
+        <div style="clear: both"></div>
+    </div>
+    </form>
+
+    <div class="new_status"> </div>
+
+    
+    <p class="volume_discount">
+        <strong class="volume_title">Volume Discount</strong>
+        <span>Buy <strong>5 - 9</strong> of an item and get a <strong>5%</strong> discount.</span>
+        <span>Buy <strong>10</strong> or more of an item and get a <strong>10%</strong> discount.</span>
+        <span>Buying <strong>20</strong> or more of an item - <a href="/catalog/quote.php?item_id=6543">request a bulk quote</a>.</span>
+    </p>
+
+    

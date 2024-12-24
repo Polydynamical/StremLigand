@@ -1,0 +1,115 @@
+
+            <div>
+
+<div id="page_header_catalog">
+                <h1> Product Catalog</h1>
+        </div>
+
+<div class="product_list_header"><div class="catalog_number">15-8761</div><span class="category">Phosphorus</span> <span class="name"><strong>›</strong> <span id="header_description">[S(R)]-N-[(S)-[2-(Diphenylphosphino)phenyl](2-naphthalenyl)methyl]-N,2-dimethyl-2-propanesulfinamide, 95%</span></span></div>
+<div class="column_pad">
+    <div id="tabs_container">
+        <div id="tabs">
+            <a href="/catalog/v/15-8761/52/phosphorus" onclick="changeBlock(1);return false;" id="tab1" class="tab_up" title="[S(R)]-N-[(S)-[2-(Diphenylphosphino)phenyl](2-naphthalenyl)methyl]-N,2-dimethyl-2-propanesulfinamide, 95%">Product Detail</a>
+                            <a href="/catalog/v3/15-8761/52/phosphorus" onclick="changeBlock(3);return false;" id="tab3" class="tab_down">Safety Data Sheet</a>
+                            <a href="/catalog/v4/15-8761/52/phosphorus" onclick="changeBlock(4);return false;" id="tab4" class="tab_down" title="[S(R)]-N-[(S)-[2-(Diphenylphosphino)phenyl](2-naphthalenyl)methyl]-N,2-dimethyl-2-propanesulfinamide, 95%">Certificates of Analysis</a>
+                        <div class="fix_float"></div>
+        </div>
+        <div id="section1" class="show">
+            <div class="frame">
+                <div class="properties">
+                    <table cellpadding="4" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td class="title top">CAS Number:</td>
+                                <td class="data top"></td>
+                            </tr>
+                            <tr>
+                                <td class="title">MDL Number:</td>
+                                <td class="data"></td>
+                            </tr>
+                            <tr>
+                                <td class="title">Molecular Formula:</td>
+                                <td class="data">C<sub>3</sub><sub>4</sub>H<sub>3</sub><sub>4</sub>NOPS</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Formula Weight:</td>
+                                <td class="data">535.7</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Chemical Formula:</td>
+                                <td class="data">C<sub>3</sub><sub>4</sub>H<sub>3</sub><sub>4</sub>NOPS</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Color and Form:</td>
+                                <td class="data">Off white to light yellow pwdr.</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Note:</td>
+                                <td class="data">Sold in collaboration with Daicel for research purposes only.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p><strong>Stability:</strong> air sensitive, heat sensitive, moisture sensitive, store cold</p>                        <div class="product_block">
+                            <p></p><h4>Related Categories:</h4><p></p>
+                            <ul class="related_categories">
+                                                                    <li>
+                                        <a href="/catalog/ligands.php" onclick="ga('send', 'event', 'Products', 'click', 'Ligands');">
+                                            Ligands                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="/catalog/family/SadPhos+Ligands/" onclick="ga('send', 'event', 'Products', 'click', 'SadPhos Ligands');">
+                                            SadPhos Ligands                                        </a>
+                                    </li>
+                                                                </ul>
+                        </div>
+                                        </div>
+
+                <div class="price_block">
+                    <img src="/uploads/web_structures/15-8761.gif" alt="15-8761" class="detail_img">    <form id="purchase_form" action="/catalog/" method="get">
+    <table class="price_table" summary="Table of prices with form to input quantity.">
+        <tbody>
+            <tr>
+                <th>Size</th>
+                <th>Price</th>
+                <th>Availability</th>
+                <th>Quantity</th>
+            </tr>
+                            <tr class="odd">
+                    <td class="size">50mg</td>
+                    <td class="price">
+                        <span class="currency_symbol">US$</span>135.00                    </td>
+                    <td class="availability">
+                        <div class="summary">Available on 26-Aug-2023</div>
+                        <div class="detail" style="display: none;">
+                                                    </div>
+                        <div class="warning" style="display: none;">
+                                                    </div>
+                    </td>
+                    <td class="quantity">
+                        <input type="text" name="quantity_46090602" value="">
+                    </td>
+                </tr>
+                        </tbody>
+    </table>
+    <div class="purchase_form_section">
+        <a class="block_quote" href="/catalog/quote.php?item_id=9299"><img src="/images/buttons/bulk_quote_sm.jpg" alt="Get a Bulk Quote"></a>
+        <input type="hidden" name="currency_type_id" value="1">
+        <input type="hidden" name="item_id" value="9299">
+        <input type="hidden" name="page_function" value="add_to_cart">
+        <input type="image" src="/images/buttons/add_to_cart.gif" class="purchase_submit_button" alt="Add to Cart">
+        <div style="clear: both"></div>
+    </div>
+    </form>
+
+    <div class="new_status"><img src="/images/icons/all_new.gif" alt="All New" class="icon"> <span class="all_new">New (not in print catalog)</span></div>
+
+    
+    <p class="volume_discount">
+        <strong class="volume_title">Volume Discount</strong>
+        <span>Buy <strong>5 - 9</strong> of an item and get a <strong>5%</strong> discount.</span>
+        <span>Buy <strong>10</strong> or more of an item and get a <strong>10%</strong> discount.</span>
+        <span>Buying <strong>20</strong> or more of an item - <a href="/catalog/quote.php?item_id=9299">request a bulk quote</a>.</span>
+    </p>
+
+    

@@ -1,0 +1,17 @@
+1690659454458	geckodriver	INFO	Listening on 127.0.0.1:38705
+1690659454937	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRUQOfn"
+Gtk-Message: 12:37:34.949: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690659455271	Marionette	INFO	Marionette enabled
+1690659455273	Marionette	INFO	Listening on port 41427
+WebDriver BiDi listening on ws://127.0.0.1:49967
+Read port: 41427
+1690659455430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRUQOfn/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/UrlbarProviderQuickSuggest.sys.mjs, line 330: TypeError: lazy.QuickSuggest.remoteSettings is undefined
+DevTools listening on ws://127.0.0.1:49967/devtools/browser/4e835e79-1f8c-402e-98ba-810fcda765ff
+1690659457869	Marionette	INFO	Stopped listening on port 41427
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/Utils.jsm, line 237: TypeError: NetworkError: Network request failed

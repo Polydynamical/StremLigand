@@ -1,0 +1,749 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="web_author" content="Imarc, A Digital Agency | Boston + Silicon Valley | more info at imarc.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Phosphorus (CAS Number 415941-58-1) : Strem Product Catalog</title>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" type="text/css" href="/css/strem.css?v=2" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/selectbox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/catalog.css?v=1" media="all" />
+<link rel="stylesheet" type="text/css" href="/lib/js/slick/slick.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/lib/js/slick/slick-theme.css" media="all" />
+        <script type="text/javascript" src="/lib/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/lib/js/plugins/jquery.selectbox-0.5.js"></script>
+<script type="text/javascript" src="/lib/js/Sliders.js"></script>
+<script type="text/javascript" src="/lib/js/site.js"></script>
+<script type="text/javascript" src="/lib/js/product_search.js"></script>
+<script type="text/javascript" src="/lib/js/catalog.js"></script>
+<script type="text/javascript" src="/lib/js/slick/slick.min.js"></script>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TR7RVLQ');</script>
+<!-- End Google Tag Manager -->	<!-- Adobe DTM -->
+<script src="https://assets.adobedtm.com/175f7caa2b90/f6f3b0acd833/launch-6afdcbdfc92f.min.js" async></script>
+<!-- / Adobe DTM -->    </head>
+
+<body>
+    <div id="frame">
+    <div class="section header">
+	<div class="primary_column">
+		<div id="logo">
+			<a href="/index.php"><img id="brand" src="/images/assets/strem-catalog-logo.png" alt="Strem Chemicals, Inc." class="page_design" /></a>
+		</div>
+		<div id="search_block">
+			<form id="keyword_search" action="/catalog/index.php" method="get">
+				<div class="header_search_block">
+					<input type="image" class="search_button" src="/images/buttons/strem_search_button.png" alt="Search" />
+					<input type="text" name="keyword" title="Enter Search Term" class="keyword_field" value="" placeholder="Search Strem.com"/>
+					<input type="hidden" name="page_function" value="keyword_search" />
+				</div>
+			</form>
+			<div class="fix_float"></div>
+			<div class="instructions">Search for a full or partial Catalog Number, CAS Number or description</div>
+		</div>
+	</div>
+	<div class="secondary_column">
+		<div id="account">
+						<a href="/login.php">Log In</a> | <a href="/account/create.php">Register</a>		</div>
+		<div id="favorites">
+			<a href="/cart/favorites.php"><img src="/images/buttons/your_favorites.jpg" alt="Your favorites" class="your_favorites" /></a>
+			<a href="/catalog/order_form.php"><img src="/images/buttons/quick_order_header.jpg" alt="Quick Order Form"/></a>
+		</div>
+				<div id="cart">Your cart is empty.</div>
+	</div>
+</div>
+<div class="section primary_nav">
+	<div id="primary_navigation" class="primary_column">
+		<ul class="group">
+			<li class="">
+				<a href="/index.php">Home</a>
+			</li>
+			<li class="active">
+				<a href="/catalog/">Catalog</a>
+			</li>
+			<li class="">
+				<a href="/new_products/">New Products</a>
+			</li>
+			<li class="">
+				<a href="/custom_synthesis/">Custom Synthesis</a>
+			</li>
+			<li class="">
+				<a href="/product_resources/">Product Resources</a>
+			</li>
+			<li class="">
+				<a href="/about/">About</a>
+			</li>
+		</ul>
+	</div>
+	<div class="secondary_column"><a href="/about/contact.php"><img src="/images/buttons/contact.gif" alt="Contact Strem" class="page_design" /></a></div>
+</div><div class="section">
+	<div id="subnavigation">
+		<a href="/catalog/pl/">Product List</a>\&nbsp;
+		<a href="/catalog/catalysts.php">Catalysts</a>\&nbsp;
+		<a href="/catalog/ligands.php">Ligands</a>\&nbsp;
+		<a href="/catalog/family/CVD+%26+ALD+Precursors/">CVD/ALD Precursors</a>\&nbsp;
+		<a href="/catalog/accessories.php">Bubblers &amp; Other Equipment</a>\&nbsp;
+		<a href="/catalog/acronyms.php">Acronyms</a>\&nbsp;
+		<a href="/catalog/kits.php">Kits</a>\&nbsp;
+		<a href="/catalog/product_families.php">Product Families</a>\&nbsp;
+		<a href="/catalog/product_blog.php">Product Blog</a>
+	</div>
+</div>
+        <div class="section body">
+            <div>
+
+<div id="page_header_catalog">
+                <h1>	<span class="cas_number_block">
+		CAS Number: <span class="cas_number">415941-58-1</span>
+	</span>
+	 Product Catalog</h1>
+        </div>
+
+<div class="product_list_header"><div class="catalog_number">15-1260</div><span class="category">Phosphorus</span> <span class="name"><strong>&rsaquo;</strong> <span id="header_description">[2-(N,N-Dimethylamino)phenyl]di-t-butylphosphine, min. 95%</span></span></div>
+<div class="column_pad">
+    <div id="tabs_container">
+        <div id="tabs">
+            <a href="/catalog/v/15-1260/52/phosphorus_415941-58-1" onclick="changeBlock(1);return false;" id="tab1" class="tab_up" title="[2-(N,N-Dimethylamino)phenyl]di-t-butylphosphine, min. 95%">Product Detail</a>
+                            <a href="/catalog/v2/15-1260/52/phosphorus_415941-58-1" onclick="changeBlock(2);return false;" id="tab2" class="tab_down">Technical Note</a>
+                                <a href="/catalog/v3/15-1260/52/phosphorus_415941-58-1" onclick="changeBlock(3);return false;" id="tab3" class="tab_down">Safety Data Sheet</a>
+                            <a href="/catalog/v4/15-1260/52/phosphorus_415941-58-1" onclick="changeBlock(4);return false;" id="tab4" class="tab_down" title="[2-(N,N-Dimethylamino)phenyl]di-t-butylphosphine, min. 95%">Certificates of Analysis</a>
+                        <div class="fix_float"></div>
+        </div>
+        <div id="section1" class="show">
+            <div class="frame">
+                <div class="properties">
+                    <table cellpadding="4" cellspacing="0">
+                        <tbody>
+                            <tr>
+                                <td class="title top">CAS Number:</td>
+                                <td class="data top">415941-58-1</td>
+                            </tr>
+                            <tr>
+                                <td class="title">MDL Number:</td>
+                                <td class="data"></td>
+                            </tr>
+                            <tr>
+                                <td class="title">Molecular Formula:</td>
+                                <td class="data">C16H28NP</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Formula Weight:</td>
+                                <td class="data">265.37</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Chemical Formula:</td>
+                                <td class="data">C16H28NP</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Color and Form:</td>
+                                <td class="data">white to light-brown xtl.</td>
+                            </tr>
+                            <tr>
+                                <td class="title">Note:</td>
+                                <td class="data">Ligand used in the copper-catalyzed coupling of arylboronate esters with aryl and heteroaryl halides.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <p><strong>Physical Characteristics:</strong> melting point 50-53°C</p>                        <div class="product_block">
+                            <p><h4>Related Categories:</h4></p>
+                            <ul class="related_categories">
+                                                                    <li>
+                                        <a href="/catalog/ligands.php" onClick="ga('send', 'event', 'Products', 'click', 'Ligands');">
+                                            Ligands                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="/catalog/family/Phosphine/" onClick="ga('send', 'event', 'Products', 'click', 'Phosphine');">
+                                            Phosphine                                        </a>
+                                    </li>
+                                                                </ul>
+                        </div>
+                                        </div>
+
+                <div class="price_block">
+                    <img src="/uploads/web_structures/15-1260.gif" alt="15-1260" class="detail_img" />        <form id="country_selection_form" action="/catalog/index.php" method="post">
+        <div>
+            <div class="select_country">
+                <h3>Price &amp; Availability</h3>
+                <h4>Choose Your Country</h4>
+                                    <select name="country">
+                                            <option value="Afganistan">Afganistan</option>
+                                                <option value="Albania">Albania</option>
+                                                <option value="Algeria">Algeria</option>
+                                                <option value="American Samoa">American Samoa</option>
+                                                <option value="Andorra">Andorra</option>
+                                                <option value="Angola">Angola</option>
+                                                <option value="Anguilla">Anguilla</option>
+                                                <option value="Antigua &amp; Barbuda">Antigua &amp; Barbuda</option>
+                                                <option value="Antilles">Antilles</option>
+                                                <option value="Argentina">Argentina</option>
+                                                <option value="Armenia">Armenia</option>
+                                                <option value="Aruba">Aruba</option>
+                                                <option value="Ashmore &amp; Cartier Islands">Ashmore &amp; Cartier Islands</option>
+                                                <option value="Australia">Australia</option>
+                                                <option value="Austria">Austria</option>
+                                                <option value="Azerbaijan">Azerbaijan</option>
+                                                <option value="Bahamas">Bahamas</option>
+                                                <option value="Bahrain">Bahrain</option>
+                                                <option value="Baker Island">Baker Island</option>
+                                                <option value="Bangladesh">Bangladesh</option>
+                                                <option value="Barbados">Barbados</option>
+                                                <option value="Bassas da India">Bassas da India</option>
+                                                <option value="Belarus">Belarus</option>
+                                                <option value="Belgium">Belgium</option>
+                                                <option value="Belize">Belize</option>
+                                                <option value="Benin">Benin</option>
+                                                <option value="Bermuda">Bermuda</option>
+                                                <option value="Bhutan">Bhutan</option>
+                                                <option value="Bolivia">Bolivia</option>
+                                                <option value="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</option>
+                                                <option value="Botswana">Botswana</option>
+                                                <option value="Bouvet Islands">Bouvet Islands</option>
+                                                <option value="Brazil">Brazil</option>
+                                                <option value="Brunei">Brunei</option>
+                                                <option value="Brurundi">Brurundi</option>
+                                                <option value="Bulgaria">Bulgaria</option>
+                                                <option value="Burkina Faso">Burkina Faso</option>
+                                                <option value="Burma (Myanmar)">Burma (Myanmar)</option>
+                                                <option value="Cambodia">Cambodia</option>
+                                                <option value="Cameroon">Cameroon</option>
+                                                <option value="Canada">Canada</option>
+                                                <option value="Cape Verde">Cape Verde</option>
+                                                <option value="Cayman Islands">Cayman Islands</option>
+                                                <option value="Central African Republic">Central African Republic</option>
+                                                <option value="Chad">Chad</option>
+                                                <option value="Chile">Chile</option>
+                                                <option value="China">China</option>
+                                                <option value="Clipperton Island">Clipperton Island</option>
+                                                <option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+                                                <option value="Colombia">Colombia</option>
+                                                <option value="Comors">Comors</option>
+                                                <option value="Congo">Congo</option>
+                                                <option value="Congo, Democratic Republic of the">Congo, Democratic Republic of the</option>
+                                                <option value="Cook Islands">Cook Islands</option>
+                                                <option value="Coral Sea Islands">Coral Sea Islands</option>
+                                                <option value="Costa Rica">Costa Rica</option>
+                                                <option value="Cote d&#039;Ivoire">Cote d&#039;Ivoire</option>
+                                                <option value="Croatia">Croatia</option>
+                                                <option value="Cuba">Cuba</option>
+                                                <option value="Cyprus">Cyprus</option>
+                                                <option value="Czech Republic">Czech Republic</option>
+                                                <option value="Denmark">Denmark</option>
+                                                <option value="Djibouti">Djibouti</option>
+                                                <option value="Dominica">Dominica</option>
+                                                <option value="Dominican Republic">Dominican Republic</option>
+                                                <option value="East Timor">East Timor</option>
+                                                <option value="Ecuador">Ecuador</option>
+                                                <option value="Egypt">Egypt</option>
+                                                <option value="Eire">Eire</option>
+                                                <option value="El Salvador">El Salvador</option>
+                                                <option value="England">England</option>
+                                                <option value="Equatorial Guinea">Equatorial Guinea</option>
+                                                <option value="Eritrea">Eritrea</option>
+                                                <option value="Estonia">Estonia</option>
+                                                <option value="Ethiopia">Ethiopia</option>
+                                                <option value="Europa Island">Europa Island</option>
+                                                <option value="Falkland Island">Falkland Island</option>
+                                                <option value="Faroe Islands">Faroe Islands</option>
+                                                <option value="Fiji">Fiji</option>
+                                                <option value="Finland">Finland</option>
+                                                <option value="France">France</option>
+                                                <option value="French Guiana">French Guiana</option>
+                                                <option value="French Polynesia">French Polynesia</option>
+                                                <option value="Gabon">Gabon</option>
+                                                <option value="Gambia">Gambia</option>
+                                                <option value="Georgia">Georgia</option>
+                                                <option value="Germany">Germany</option>
+                                                <option value="Ghana">Ghana</option>
+                                                <option value="Gibraltar">Gibraltar</option>
+                                                <option value="Great Britain">Great Britain</option>
+                                                <option value="Greece">Greece</option>
+                                                <option value="Greenland">Greenland</option>
+                                                <option value="Grenada">Grenada</option>
+                                                <option value="Guadeloupe">Guadeloupe</option>
+                                                <option value="Guam">Guam</option>
+                                                <option value="Guatemala">Guatemala</option>
+                                                <option value="Guernsey">Guernsey</option>
+                                                <option value="Guinea">Guinea</option>
+                                                <option value="Guinea-Bissau">Guinea-Bissau</option>
+                                                <option value="Guyana">Guyana</option>
+                                                <option value="Haiti">Haiti</option>
+                                                <option value="Heard &amp; McDonald Islands">Heard &amp; McDonald Islands</option>
+                                                <option value="Honduras">Honduras</option>
+                                                <option value="Hong Kong">Hong Kong</option>
+                                                <option value="Howland Island">Howland Island</option>
+                                                <option value="Hungary">Hungary</option>
+                                                <option value="Iceland">Iceland</option>
+                                                <option value="India">India</option>
+                                                <option value="Indonesia">Indonesia</option>
+                                                <option value="Iran">Iran</option>
+                                                <option value="Iraq">Iraq</option>
+                                                <option value="Ireland Republic">Ireland Republic</option>
+                                                <option value="Isle of Man">Isle of Man</option>
+                                                <option value="Israel">Israel</option>
+                                                <option value="Italy">Italy</option>
+                                                <option value="Jamaica">Jamaica</option>
+                                                <option value="Jan Mayen">Jan Mayen</option>
+                                                <option value="Japan">Japan</option>
+                                                <option value="Jarvis Island">Jarvis Island</option>
+                                                <option value="Jersey">Jersey</option>
+                                                <option value="Johnson Atoll">Johnson Atoll</option>
+                                                <option value="Jordan">Jordan</option>
+                                                <option value="Juan de Nova Island">Juan de Nova Island</option>
+                                                <option value="Kazakhstan">Kazakhstan</option>
+                                                <option value="Kenya">Kenya</option>
+                                                <option value="Kingman Reef">Kingman Reef</option>
+                                                <option value="Kiribati">Kiribati</option>
+                                                <option value="Kirtmati (Christmas Island)">Kirtmati (Christmas Island)</option>
+                                                <option value="Kosovo">Kosovo</option>
+                                                <option value="Kuwait">Kuwait</option>
+                                                <option value="Kyrgyzstan">Kyrgyzstan</option>
+                                                <option value="Laos">Laos</option>
+                                                <option value="Latvia">Latvia</option>
+                                                <option value="Lebanon">Lebanon</option>
+                                                <option value="Lesotho">Lesotho</option>
+                                                <option value="Liberia">Liberia</option>
+                                                <option value="Libya">Libya</option>
+                                                <option value="Liechtenstein">Liechtenstein</option>
+                                                <option value="Lithuania">Lithuania</option>
+                                                <option value="Luxembourg">Luxembourg</option>
+                                                <option value="Macau">Macau</option>
+                                                <option value="Macedonia">Macedonia</option>
+                                                <option value="Madagascar">Madagascar</option>
+                                                <option value="Malawi">Malawi</option>
+                                                <option value="Malaysia">Malaysia</option>
+                                                <option value="Maldives">Maldives</option>
+                                                <option value="Mali">Mali</option>
+                                                <option value="Malta">Malta</option>
+                                                <option value="Marshall Islands">Marshall Islands</option>
+                                                <option value="Martinique">Martinique</option>
+                                                <option value="Mauritania">Mauritania</option>
+                                                <option value="Mauritius">Mauritius</option>
+                                                <option value="Mayoette">Mayoette</option>
+                                                <option value="Mexico">Mexico</option>
+                                                <option value="Micronesia">Micronesia</option>
+                                                <option value="Midway Islands">Midway Islands</option>
+                                                <option value="Moldova">Moldova</option>
+                                                <option value="Monaco">Monaco</option>
+                                                <option value="Mongolia">Mongolia</option>
+                                                <option value="Montenegro">Montenegro</option>
+                                                <option value="Montserrat">Montserrat</option>
+                                                <option value="Morocco">Morocco</option>
+                                                <option value="Mozambique">Mozambique</option>
+                                                <option value="Myanmar">Myanmar</option>
+                                                <option value="Namibia">Namibia</option>
+                                                <option value="Nauru">Nauru</option>
+                                                <option value="Navassa Island">Navassa Island</option>
+                                                <option value="Nepal">Nepal</option>
+                                                <option value="Netherlands">Netherlands</option>
+                                                <option value="New Caledonia">New Caledonia</option>
+                                                <option value="New Zealand">New Zealand</option>
+                                                <option value="Nicaragua">Nicaragua</option>
+                                                <option value="Niger">Niger</option>
+                                                <option value="Nigeria">Nigeria</option>
+                                                <option value="Niue Island">Niue Island</option>
+                                                <option value="Norfolk Island">Norfolk Island</option>
+                                                <option value="Northern Ireland">Northern Ireland</option>
+                                                <option value="Northern Mariana Islands">Northern Mariana Islands</option>
+                                                <option value="North Korea">North Korea</option>
+                                                <option value="Norway">Norway</option>
+                                                <option value="Oman">Oman</option>
+                                                <option value="Pakistan">Pakistan</option>
+                                                <option value="Palau">Palau</option>
+                                                <option value="Palestinian State">Palestinian State</option>
+                                                <option value="Palmyra Atol">Palmyra Atol</option>
+                                                <option value="Panama">Panama</option>
+                                                <option value="Papua New Guinea">Papua New Guinea</option>
+                                                <option value="Paraguay">Paraguay</option>
+                                                <option value="Peru">Peru</option>
+                                                <option value="Philippines">Philippines</option>
+                                                <option value="Pitcairn Islands">Pitcairn Islands</option>
+                                                <option value="Poland">Poland</option>
+                                                <option value="Portugal">Portugal</option>
+                                                <option value="Puerto Rico">Puerto Rico</option>
+                                                <option value="Qatar">Qatar</option>
+                                                <option value="Reunion Island">Reunion Island</option>
+                                                <option value="Romania">Romania</option>
+                                                <option value="Russia">Russia</option>
+                                                <option value="Rwanda">Rwanda</option>
+                                                <option value="San Marino">San Marino</option>
+                                                <option value="Sao Tome &amp; Principe">Sao Tome &amp; Principe</option>
+                                                <option value="Saudi Arabia">Saudi Arabia</option>
+                                                <option value="Scotland">Scotland</option>
+                                                <option value="Senegal">Senegal</option>
+                                                <option value="Serbia">Serbia</option>
+                                                <option value="Seychelles">Seychelles</option>
+                                                <option value="Sierra Leone">Sierra Leone</option>
+                                                <option value="Singapore">Singapore</option>
+                                                <option value="Slovakia">Slovakia</option>
+                                                <option value="Slovenia">Slovenia</option>
+                                                <option value="Solomon Islands">Solomon Islands</option>
+                                                <option value="Somalia">Somalia</option>
+                                                <option value="South Africa">South Africa</option>
+                                                <option value="South Georgia &amp; South Sandwich Islands">South Georgia &amp; South Sandwich Islands</option>
+                                                <option value="South Korea">South Korea</option>
+                                                <option value="Spain">Spain</option>
+                                                <option value="Sri Lanka">Sri Lanka</option>
+                                                <option value="St Helena">St Helena</option>
+                                                <option value="St. Kitts &amp; Nevis">St. Kitts &amp; Nevis</option>
+                                                <option value="St. Lucia">St. Lucia</option>
+                                                <option value="St Pierre &amp; Miquelon">St Pierre &amp; Miquelon</option>
+                                                <option value="St. Vincent &amp; The Grenadines">St. Vincent &amp; The Grenadines</option>
+                                                <option value="Sudan">Sudan</option>
+                                                <option value="Suriname">Suriname</option>
+                                                <option value="Svalbard">Svalbard</option>
+                                                <option value="Swaziland">Swaziland</option>
+                                                <option value="Sweden">Sweden</option>
+                                                <option value="Switzerland">Switzerland</option>
+                                                <option value="Syria">Syria</option>
+                                                <option value="Taiwan">Taiwan</option>
+                                                <option value="Tajikistan">Tajikistan</option>
+                                                <option value="Tanzania">Tanzania</option>
+                                                <option value="Tasmania">Tasmania</option>
+                                                <option value="Thailand">Thailand</option>
+                                                <option value="Tobago">Tobago</option>
+                                                <option value="Togo">Togo</option>
+                                                <option value="Tokelau Island">Tokelau Island</option>
+                                                <option value="Tonga">Tonga</option>
+                                                <option value="Trinidad">Trinidad</option>
+                                                <option value="Tromelin Island">Tromelin Island</option>
+                                                <option value="Tunisia">Tunisia</option>
+                                                <option value="Turkey">Turkey</option>
+                                                <option value="Turkmenistan">Turkmenistan</option>
+                                                <option value="Turks &amp; Caicos Islands">Turks &amp; Caicos Islands</option>
+                                                <option value="Tuvalu">Tuvalu</option>
+                                                <option value="Uganda">Uganda</option>
+                                                <option value="Ukraine">Ukraine</option>
+                                                <option value="United Arab Emirates">United Arab Emirates</option>
+                                                <option value="United Kingdom">United Kingdom</option>
+                                                <option value="Uruguay">Uruguay</option>
+                                                <option value="USA" selected="selected">USA</option>
+                                                <option value="Uzbekistan">Uzbekistan</option>
+                                                <option value="Vanuatu">Vanuatu</option>
+                                                <option value="Vatican City">Vatican City</option>
+                                                <option value="Venezuela">Venezuela</option>
+                                                <option value="Vietnam">Vietnam</option>
+                                                <option value="Virgin Islands (British)">Virgin Islands (British)</option>
+                                                <option value="Virgin Islands (US)">Virgin Islands (US)</option>
+                                                <option value="Wake Island">Wake Island</option>
+                                                <option value="Wales">Wales</option>
+                                                <option value="Wallis &amp; Futuna">Wallis &amp; Futuna</option>
+                                                <option value="Western Sahara">Western Sahara</option>
+                                                <option value="Yemen">Yemen</option>
+                                                <option value="Zambia">Zambia</option>
+                                                <option value="Zimbabwe">Zimbabwe</option>
+                                            </select>
+                    <input type="image" src="/images/buttons/select_country.jpg" class="country_select_button" alt="Select" />
+                                <input type="hidden" name="page_function" value="select_country" />
+                <input type="hidden" name="item_id" value="7887" />
+                <input type="hidden" name="group_id" value="52" />
+            </div>
+            <div class="new_status"> </div>
+            <div style="clear:both"></div>
+        </div>
+    </form>
+    
+                    <!-- Email a friend form -->
+                    <div class="email_a_friend">
+                        <h4>E-Mail a Friend</h4>
+<p>You can <a class="show_form" href="?sef=1">e-mail a link to this page</a> to a friend or colleague.</p>
+<div id="email_friend_form" class="hide">
+
+    <!-- Invisible Recaptchca -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        function onSubmit(email_friend) {
+           document.getElementById("friend_form").submit();
+        }
+     </script>
+
+    <form id="friend_form" action="/catalog/" method="post">
+        <div class="form_element">
+            <label>Your Name<span class="required">*</span></label> <input type="text" name="your_name" value="" />
+        </div>
+        <div class="form_element">
+            <label>Your E-Mail<span class="required">*</span></label> <input type="text" name="your_email" value="" />
+        </div>
+        <div class="form_element">
+            <label>Recipient's Name<span class="required">*</span></label> <input type="text" name="recipient_name" value="" />
+        </div>
+        <div class="form_element">
+            <label>Recipient's E-Mail<span class="required">*</span></label> <input type="text" name="recipient_email" value="" />
+        </div>
+        <!-- <div class="form_element">
+            <div class="g-recaptcha" data-sitekey="6LffMtISAAAAABSKSXUG_3ff53lgBb7FSbyVl6IZ"></div>
+        </div> -->
+
+        
+        <div class="submit">
+            <input type="hidden" name="catalog_number" value="15-1260" />
+            <input type="hidden" name="url" value="/catalog/v/15-1260/52/phosphorus_415941-58-1" />
+            <input type="hidden" name="csrf_token" value="PmLC5Xc7QM" />
+            <input type="hidden" name="page_function" value="email_friend" />
+            <!-- <input type="image" src="/images/buttons/send.jpg" alt="Send" /> -->
+            <button class="g-recaptcha" data-action="EMAIL_FRIEND">
+                <input type="image" src="/images/buttons/send.jpg" alt="Send" />
+            </button>
+        </div>
+    </form>
+</div>
+                    </div>
+                    <!-- End email friend form -->
+                </div>
+                <div class="fix_float"></div>
+                <div class="featured-products">
+                        <script>
+        $(document).ready(function(){
+            $('.featured-slider').slick({
+                infinite: true,
+                slidesToShow: 4,
+                slidesToScroll: 4,
+            });
+        });
+    </script>
+
+    <h3>Featured Products</h3>
+    <div class="featured-slider">
+                    <div class="product">
+                <a href="/catalog/v/15-3035/phosphorus_2489243-29-8">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-3035.gif" alt="15-3035" class="" />                    </div>
+                    <h4>
+                        15-3035                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/15-6375/phosphorus_4706-17-6">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-6375.gif" alt="15-6375" class="" />                    </div>
+                    <h4>
+                        15-6375                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/15-6655/phosphorus_4731-53-7">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-6655.gif" alt="15-6655" class="" />                    </div>
+                    <h4>
+                        15-6655                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/26-0150/iron_84680-95-5">
+                    <div class="image">
+                        <img src="/uploads/web_structures/26-0150.gif" alt="26-0150" class="" />                    </div>
+                    <h4>
+                        26-0150                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/15-1045/phosphorus_224311-51-7-JohnPhos">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-1045.gif" alt="15-1045" class="" />                    </div>
+                    <h4>
+                        15-1045                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/15-1164/phosphorus_1160861-53-9">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-1164.gif" alt="15-1164" class="" />                    </div>
+                    <h4>
+                        15-1164                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/15-0487/phosphorus_503538-70-3">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-0487.gif" alt="15-0487" class="" />                    </div>
+                    <h4>
+                        15-0487                    </h4>
+                </a>
+            </div>
+                    <div class="product">
+                <a href="/catalog/v/15-1052/phosphorus_564483-19-8">
+                    <div class="image">
+                        <img src="/uploads/web_structures/15-1052.gif" alt="15-1052" class="" />                    </div>
+                    <h4>
+                        15-1052                    </h4>
+                </a>
+            </div>
+            </div>
+
+                </div>
+            </div>
+        </div>
+                    <div id="section2" class="hide">
+                                        <div class="printer_link">
+                            <a href="/uploads/technical_notes/15-1260tech.pdf">Download the PDF</a>
+                        </div>
+                        <div class="tech_note_frame">
+                            <p class="tablet_download_note">
+                                The PDF document cannot be embedded on the page.
+                            </p>
+
+                            <object type="application/pdf" style="width:100%; height:100%;" data="/uploads/technical_notes/15-1260tech.pdf">
+                                <param name="src" value="/uploads/technical_notes/15-1260tech.pdf" />
+                                <param name="controller" value="true" />
+                                <param name="autostart" value="true" />
+                                <a href="/uploads/technical_notes/15-1260tech.pdf">15-1260.pdf</a>
+                            </object>
+                        </div>
+                        <p class="adobe_link"><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img src="https://www.adobe.com/images/shared/download_buttons/get_adobe_reader.png" alt="Download Adobe Acrobat Reader" /></a></p>
+                                    </div>
+                        <div id="section3" class="hide">
+                <div class="printer_link">
+                    Download Safety Data Sheet
+                                            <a href="/uploads/sds/sd15-1260_US.pdf" onclick="sdsWindow('/uploads/sds/sd15-1260_US.pdf'); return false;" class="sds_link">English [USA]</a>
+                                                <a href="/uploads/sds/sd15-1260_GB.pdf" onclick="sdsWindow('/uploads/sds/sd15-1260_GB.pdf'); return false;" class="sds_link">English [UK]</a>
+                                                <a href="/uploads/sds/sd15-1260_DE.pdf" onclick="sdsWindow('/uploads/sds/sd15-1260_DE.pdf'); return false;" class="sds_link">Deutsch</a>
+                                                <a href="/uploads/sds/sd15-1260_FR.pdf" onclick="sdsWindow('/uploads/sds/sd15-1260_FR.pdf'); return false;" class="sds_link">Français</a>
+                                                <a href="/uploads/sds/sd15-1260_KR.pdf" onclick="sdsWindow('/uploads/sds/sd15-1260_KR.pdf'); return false;" class="sds_link">한국어</a>
+                                                <a href="/uploads/sds/sd15-1260_CN.pdf" onclick="sdsWindow('/uploads/sds/sd15-1260_CN.pdf'); return false;" class="sds_link">中文</a>
+                        
+                </div>
+
+                <div class="tech_note_frame">
+                    <p class="tablet_download_note">
+                        The PDF document cannot be embedded on the page.
+                    </p>
+
+                    <object type="application/pdf" style="width:100%; height:100%;" data="/uploads/sds/sd15-1260_US.pdf">
+                        <param name="src" value="/uploads/sds/sd15-1260_US.pdf" />
+                        <param name="controller" value="true" />
+                        <param name="autostart" value="true" />
+                        <a href="/uploads/sds/sd15-1260_US.pdf">sd15-1260_US.pdf</a>
+                    </object>
+                </div>
+                <p class="adobe_link"><a href="http://www.adobe.com/products/acrobat/readstep2.html"><img src="https://www.adobe.com/images/shared/download_buttons/get_adobe_reader.png" alt="Download Adobe Acrobat Reader" /></a></p>
+            </div>
+                    <div id="section4" class="hide">
+                        <h3>Enter a lot number</h3>
+                        <form id="certificate_form" action="/catalog/v4/15-1260/" method="get">
+                <div>
+                    <input type="text" name="lot_number" value="" />
+                    <input type="image" src="/images/buttons/submit.jpg" value="Submit" style="vertical-align: middle;" />
+                </div>
+            </form>
+        </div>
+            </div>
+    <div class="fix_float"></div>
+    <p class="back_to">
+                <a href="/catalog/gl/52/">&larr; back to search results</a>
+    </p>
+</div>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+	const recaptchaButtons = document.querySelectorAll("button[class='g-recaptcha']");
+	for (const button of recaptchaButtons) {
+		button.setAttribute('data-callback', 'recaptchaSubmit');
+		button.setAttribute('data-sitekey', '6LdVLSEhAAAAAJD4cz8XqrWdGdrbI8Qnn-SvoXW8')
+
+		button.addEventListener("mousedown", function(event) {
+			event.preventDefault();
+			event.target.setAttribute('clicked', "");
+		});
+
+		const internalInputs = button.querySelectorAll("input");
+
+		for (const input of internalInputs) {
+			input.addEventListener("mousedown", function(event) {
+				event.preventDefault();
+				event.target.parentElement.setAttribute('clicked', "");
+			});
+		}
+	}
+
+	function recaptchaSubmit(token) {
+		const clickedButton = document.querySelector("button[class='g-recaptcha'][clicked='']");
+		clickedButton.removeAttribute('clicked');
+		var form = clickedButton.form;
+		form.submit();
+	}
+</script> 			</div>
+			<div class="fix_float"></div>
+		</div>
+	</div>
+	<div id="footer">
+		<div id="frame_footer">
+			<a href="/catalog/quote.php"><img src="/images/buttons/bulk_quote_request.gif" alt="Bulk Quote Request" /></a> <a href="/account/preferences.php?qu=1"><img src="/images/buttons/email_updates.gif" alt="Get Quarterly Updates by Email" id="update_link" /></a>		</div>
+		<div id="addresses">
+	<ul>
+		<li class="address_us">
+			Strem (USA)<br />
+			7 Mulliken Way<br />
+			Newburyport, MA 01950-4098 USA<br />
+			<span class="no_em">Tel: (978) 499 1600</span><br />
+			<span class="no_em">Fax: (978) 465 3104</span><br />
+			Toll free (in USA &amp; Canada)<br />
+			<span class="no_em">Tel: (800) 647 8736</span><br />
+			<span class="no_em">Fax: (800) 517 8736</span><br />
+			<a href="mailto:info@ascensusspecialties.com">info@ascensusspecialties.com</a>
+		</li>
+		<li id="address_fr">
+			Strem (Europe)<br />
+			15 rue de l'Atome, Z.I.<br />
+			67800 BISCHHEIM (France)<br />
+			<span class="no_em">Tel: (33) 03 88 62 52 60</span><br />
+			<span class="no_em">Fax: (33) 03 88 62 26 81</span><br />
+			<a href="mailto:info-europe@ascensusspecialties.com">info-europe@ascensusspecialties.com</a>
+		</li>
+		<li class="address_us">
+			Ascensus Specialties<br />
+			Global Headquarters<br />
+			2821 Northup Way, Suite 275<br />
+			Bellevue, WA 98004<br />
+			<span class="no_em">Tel: (425) 448 1679 / TF</span><br />
+			<span class="no_em">Tel: (888) 797 9362</span><br />
+			<a href="mailto:ask@ascensusspecialties.com">ask@ascensusspecialties.com</a>
+			<a href="https://www.ascensusspecialties.com/">www.ascensusspecialties.com</a>
+		</li>
+		<li id="address_gb">
+			Wychem Ltd.<br />
+			<em><span class="tagline">Part of Ascensus Specialties</span></em><br />
+			Haverhill Road<br />
+			Stradishall Newmarket<br />
+			Suffolk, CB8 9EX,<br />
+			United Kingdom<br />
+			<span class="no_em">Tel: +44 (0)1223 873 028</span><br />
+			<span class="no_em">Fax: +44 (0)1223 870 207</span><br />
+			<a href="mailto:info-uk@ascensusspecialties.com">info-uk@ascensusspecialties.com</a>
+		</li>
+	</ul>
+	<div class="fix_float"></div>
+</div>
+	</div>
+	<div id="copyright">
+	<div id="social_media">
+	<div class="button">
+		<img src="/images/icons/twitter_icon.png" alt="Twitter">
+		<a href="https://twitter.com/stremchemicals"></a>
+	</div>
+	<div class="button">
+		<img src="/images/icons/linked_in_icon.png" alt="LinkedIn">
+		<a href="https://www.linkedin.com/company/strem-chemicals"></a>
+	</div>
+	<div class="button">
+		<img src="/images/icons/instagram.png" alt="Instagram">
+		<a href="https://www.instagram.com/stremchemicals/"></a>
+	</div>
+</div>
+	<span id="copy_navigation">
+		<a href="/index.php">Home</a> |
+		<a href="/catalog/">Catalog</a> |
+		<a href="/new_products/">New Products</a> |
+		<a href="/custom_synthesis/">Custom Synthesis</a> |
+		<a href="/product_resources/">Product Resources</a> |
+		<a href="/about/privacy.php">Privacy Policy</a> |
+		<a href="/downloads/Employment_Application.pdf">Careers</a> |
+		<a href="/about/">About</a>
+	</span>
+	&copy;2023 Strem | <a href="/about/terms.php">Terms of use</a>
+</div>
+</body>
+</html>

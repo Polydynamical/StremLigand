@@ -1,0 +1,19 @@
+
+    Path("./products_pre").mkdir(parents=True,exist_ok=True) 
+    Path("./products_post").mkdir(parents=True,exist_ok=True) 
+    os.chdir("products_pre")
+        
+    ids = []
+    for product in tqdm.tqdm(product_links):
+        filename = product.split('catalog/v/')[1].replace('/', '_')
+
+        if not Path(filename).is_file():
+            os.system(f"wget {product_links[0]} -O {filename}")
+
+        ids.append((open(filename).read().split('<input type="hidden" name="item_id" value="')[1].split('"')[0], filename, product))
+
+    os.chdir("..")
+    ids_file = open("ids", "a")
+    for _id in tqdm.tqdm(ids):
+        ids_file.write(_id[0] + "\n")
+    ids_file.close()

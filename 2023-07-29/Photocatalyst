@@ -1,0 +1,2222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="web_author" content="Imarc, A Digital Agency | Boston + Silicon Valley | more info at imarc.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <meta name="description" content="Photocatalysts use light to alter the electronic state of the catalyst, which then promotes chemical reactions. " />
+                <meta name="keywords" content="Photocatalysis, Photocatalyst, Chemical Reactions, Photoredox Catalyst " />
+            <title>Photocatalysis | Photocatalyst | Chemical Reactions </title>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" type="text/css" href="/css/strem.css?v=2" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/selectbox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/css/catalog.css" media="all" />
+        <script type="text/javascript" src="/lib/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/lib/js/plugins/jquery.selectbox-0.5.js"></script>
+<script type="text/javascript" src="/lib/js/Sliders.js"></script>
+<script type="text/javascript" src="/lib/js/site.js"></script>
+<script type="text/javascript" src="/lib/js/product_search.js"></script>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TR7RVLQ');</script>
+<!-- End Google Tag Manager -->	<!-- Adobe DTM -->
+<script src="https://assets.adobedtm.com/175f7caa2b90/f6f3b0acd833/launch-6afdcbdfc92f.min.js" async></script>
+<!-- / Adobe DTM -->    </head>
+
+<body>
+    <div id="frame">
+        <div class="section header">
+	<div class="primary_column">
+		<div id="logo">
+			<a href="/index.php"><img id="brand" src="/images/assets/strem-catalog-logo.png" alt="Strem Chemicals, Inc." class="page_design" /></a>
+		</div>
+		<div id="search_block">
+			<form id="keyword_search" action="/catalog/index.php" method="get">
+				<div class="header_search_block">
+					<input type="image" class="search_button" src="/images/buttons/strem_search_button.png" alt="Search" />
+					<input type="text" name="keyword" title="Enter Search Term" class="keyword_field" value="" placeholder="Search Strem.com"/>
+					<input type="hidden" name="page_function" value="keyword_search" />
+				</div>
+			</form>
+			<div class="fix_float"></div>
+			<div class="instructions">Search for a full or partial Catalog Number, CAS Number or description</div>
+		</div>
+	</div>
+	<div class="secondary_column">
+		<div id="account">
+						<a href="/login.php">Log In</a> | <a href="/account/create.php">Register</a>		</div>
+		<div id="favorites">
+			<a href="/cart/favorites.php"><img src="/images/buttons/your_favorites.jpg" alt="Your favorites" class="your_favorites" /></a>
+			<a href="/catalog/order_form.php"><img src="/images/buttons/quick_order_header.jpg" alt="Quick Order Form"/></a>
+		</div>
+				<div id="cart">Your cart is empty.</div>
+	</div>
+</div>
+<div class="section primary_nav">
+	<div id="primary_navigation" class="primary_column">
+		<ul class="group">
+			<li class="">
+				<a href="/index.php">Home</a>
+			</li>
+			<li class="active">
+				<a href="/catalog/">Catalog</a>
+			</li>
+			<li class="">
+				<a href="/new_products/">New Products</a>
+			</li>
+			<li class="">
+				<a href="/custom_synthesis/">Custom Synthesis</a>
+			</li>
+			<li class="">
+				<a href="/product_resources/">Product Resources</a>
+			</li>
+			<li class="">
+				<a href="/about/">About</a>
+			</li>
+		</ul>
+	</div>
+	<div class="secondary_column"><a href="/about/contact.php"><img src="/images/buttons/contact.gif" alt="Contact Strem" class="page_design" /></a></div>
+</div><div class="section">
+	<div id="subnavigation">
+		<a href="/catalog/pl/">Product List</a>\&nbsp;
+		<a href="/catalog/catalysts.php">Catalysts</a>\&nbsp;
+		<a href="/catalog/ligands.php">Ligands</a>\&nbsp;
+		<a href="/catalog/family/CVD+%26+ALD+Precursors/">CVD/ALD Precursors</a>\&nbsp;
+		<a href="/catalog/accessories.php">Bubblers &amp; Other Equipment</a>\&nbsp;
+		<a href="/catalog/acronyms.php">Acronyms</a>\&nbsp;
+		<a href="/catalog/kits.php">Kits</a>\&nbsp;
+		<a href="/catalog/product_families.php">Product Families</a>\&nbsp;
+		<a href="/catalog/product_blog.php">Product Blog</a>
+	</div>
+</div>
+        <div class="section body">
+            <div id="primary_content" class="primary_column">
+
+<div id="page_header_catalog">
+    <div class="search_results_block">
+	Your search found<br />
+	80 product results</div>
+    <h1>Photocatalyst</h1>
+</div>
+
+<div class="product_section">
+                <div class="product_list_header">
+                <a href="#" onclick="toggleCatalogSection('0');  return false;" class="toggle_hidden"><img id="toggle_button_0" src="/images/buttons/slider_less.gif" alt="Close Section" /></a>
+                <span class="category"><a href="#" onclick="toggleCatalogSection('0');  return false;">Iridium</a></span> <span class="name">&rsaquo; Compounds</span>
+            </div>
+            <div id="catalog_section_0" class="catalog_section">
+                                    <table cellpadding="4" cellspacing="0" class="product_list list hide" summary="List of Iridium Compounds">
+                        <tbody>
+                                                    <tr>
+                                <td colspan="4" class="product_toggle">
+                                    <a href="?display_products=tile"><img src="/images/buttons/toggle_list_up_large.gif" border="0" alt="Display as List View" /></a><br />
+                                    <em>View Structures</em><br /><br />
+                                </td>
+                            </tr>
+                                                    <tr>
+                            <th class="catalog_number_header">Catalog Number</th>
+                            <th>&nbsp;</th>
+                            <th>Description</th>
+                            <th class="cas_header">CAS Number</th>
+                        </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0465/31/iridium_106294-60-4">77-0465</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0465.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0465" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0465/31/iridium_106294-60-4">(2,2'-Bipyridine)bis[2-pyridinyl-kN)phenyl-kC]iridium(III) hexafluorophosphate, 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0465/31/iridium_106294-60-4">106294-60-4</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0218/31/iridium_1607469-49-7">77-0218</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0218.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0218" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0218/31/iridium_1607469-49-7">4,4'-Bis(t-butyl-2,2'-bipyridine]bis[5-methyl-2-(4-methyl-2-pyridinyl-kN)<br />phenyl-kC]iridium hexafluorophosphate, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0218/31/iridium_1607469-49-7">1607469-49-7</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0220/31/iridium_1092775-62-6">77-0220</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0220.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0220" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0220/31/iridium_1092775-62-6">(2,2'-Bipyridine)bis[3,5-difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-kN]<br />[phenyl-kC]iridium(III) hexafluorophosphate, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0220/31/iridium_1092775-62-6">1092775-62-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0285/31/iridium_808142-80-5">77-0285</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0285.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0285" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0285/31/iridium_808142-80-5">[4,4'-Di-t-butyl-2,2'-bipyridine][bis[5-(t-butyl)-2-[4-(t-butyl)<br />-2-pyridinyl-kN]phenyl-kC]iridium(III) hexafluorophosphate, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0285/31/iridium_808142-80-5">808142-80-5</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-6100/31/iridium_370878-69-6">77-6100</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-6100.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-6100" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-6100/31/iridium_370878-69-6">Tris[5-fluoro-2-(2-pyridinyl-kN)phenyl-kC]iridium(III), 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-6100/31/iridium_370878-69-6">370878-69-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-6580/31/iridium_500295-52-3">77-6580</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-6580.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-6580" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-6580/31/iridium_500295-52-3">Tris[(2-(2-pyridinyl-kN)-5-(trifluoromethyl)phenyl-kC]iridium(III), 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-6580/31/iridium_500295-52-3">500295-52-3</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-7015/31/iridium_94928-86-6">77-7015</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-7015.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-7015" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-7015/31/iridium_94928-86-6">Tris(2-phenylpyridinato-C2,N)iridium(III), 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-7015/31/iridium_94928-86-6">94928-86-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-7030/31/iridium_387859-70-3">77-7030</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-7030.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-7030" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-7030/31/iridium_387859-70-3">Tris[2-(2,4-difluorophenyl)pyridine]iridium(III), 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-7030/31/iridium_387859-70-3">387859-70-3</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0453/31/iridium_1092775-62-6">77-0453</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0453.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0453" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0453/31/iridium_1092775-62-6">(2,2'-Bipyridine)bis[3,5-difluoro-2-[5-trifluoromethyl-2-pyridinyl-kN)<br />phenyl-kC]iridium(III) hexafluorophosphate, 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0453/31/iridium_1092775-62-6">1092775-62-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0320/31/iridium_808142-88-3">77-0320</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0320.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0320" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0320/31/iridium_808142-88-3">[4,4'-Bis(1,1-dimethylethyl)-2,2'-bipyridine-&#954;N,&#954;N]bis[5-<br />fluoro-2-(5-methyl-2-pyridinyl-&#954;N)phenyl-&#954;C]iridium hexafluorophosphate, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0320/31/iridium_808142-88-3">808142-88-3</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0330/31/iridium_1335047-34-1">77-0330</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0330.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0330" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0330/31/iridium_1335047-34-1">[4,4'-Bis(1,1-dimethylethyl)-2,2'-bipyridine-&#954;N,&#954;N]bis[3,5-<br />difluoro-2-(5-methyl-2-pyridinyl)phenyl] iridium hexafluorophosphate, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0330/31/iridium_1335047-34-1">1335047-34-1</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0350/31/iridium_1072067-44-7">77-0350</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0350.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0350" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0350/31/iridium_1072067-44-7">[4,4'-Bis(1,1-dimethylethyl)-2,2'-bipyridine-&#954;N,&#954;N]bis[3,5-<br />difluoro-2-(2-pyridinyl-&#954;N)phenyl-&#954;C]iridium hexafluorophosphate, 97%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0350/31/iridium_1072067-44-7">1072067-44-7</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0370/31/iridium_1973375-72-2">77-0370</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0370.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0370" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0370/31/iridium_1973375-72-2">[5,5'-Bis(trifluoromethyl)-2,2'-bipyridine-&#954;N,&#954;N]bis[3,5-<br />difluoro-2-[5-(trifluoromethyl)-2-pyridinyl-&#954;N]phenyl] iridium hexafluorophosphate, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0370/31/iridium_1973375-72-2">1973375-72-2</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0335/31/iridium_808142-89-4">77-0335</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0335.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0335" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0335/31/iridium_808142-89-4">Di-&#956;-chlorotetrakis[5-fluoro-2-(5-methyl-2-pyridinyl-&#954;N)<br />phenyl-&#954;C]diiridium, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0335/31/iridium_808142-89-4">808142-89-4</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0345/31/iridium_1335047-33-0">77-0345</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0345.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0345" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0345/31/iridium_1335047-33-0">Di-&#956;-chlorotetrakis[3,5-difluoro-2-(5-methyl-2-pyridinyl-&#954;N)<br />phenyl-&#954;C]diiridium, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0345/31/iridium_1335047-33-0">1335047-33-0</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0365/31/iridium_562824-27-5">77-0365</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0365.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0365" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0365/31/iridium_562824-27-5">Di-&#956;-chlorotetrakis[3,5-difluoro-2-(2-pyridinyl-&#954;N)phenyl-<br />&#954;C]diiridium, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0365/31/iridium_562824-27-5">562824-27-5</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0360/31/iridium_2030437-90-0">77-0360</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0360.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0360" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0360/31/iridium_2030437-90-0">4,4'-Bis(trifluoromethyl)-2,2'-bipyridinebis[3,5-difluoro-2-[<br />5-trifluoromethyl-2-pyridinyl)phenyl] iridium(III) hexafluorophosphate, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0360/31/iridium_2030437-90-0">2030437-90-0</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0380/31/iridium">77-0380</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0380.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0380" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0380/31/iridium">4,4'-Bis(trifluoromethyl)-2,2'-bipyridinebis[3,5-difluoro-2-[<br />5-methyl-2-pyridinyl)phenyl] iridium(III) hexafluorophosphate, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0380/31/iridium"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0340/31/iridium_2042201-18-1">77-0340</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0340.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0340" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0340/31/iridium_2042201-18-1">[4,4'-Bis(1,1-dimethylethyl)-2,2'-bipyridine]bis[3,5-difluoro-2-(<br />5-fluoro-2-pyridinyl)phenyl]iridium hexafluorophosphate, min. 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0340/31/iridium_2042201-18-1">2042201-18-1</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0355/31/iridium_849723-04-2">77-0355</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0355.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0355" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0355/31/iridium_849723-04-2">Di-&#956;-chlorotetrakis[3,5-difluoro-2-(5-fluoro-2-pyridinyl-&#954;N)<br />phenyl-&#954;C]diiridium, min. 98% (mixture of isomers)</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0355/31/iridium_849723-04-2">849723-04-2</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-8030/31/iridium_562099-10-9">77-8030</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-8030.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-8030" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-8030/31/iridium_562099-10-9">Bis[3,5-difluoro-2-(2-pyridinyl-&#954;N)phenyl-&#954;C](2,2,6,6-<br />tetramethyl-3,5-heptanedionato-&#954;O,&#954;O')iridium(III), min. 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-8030/31/iridium_562099-10-9">562099-10-9</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0400/31/iridium_12112-67-3">77-0400</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0400.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0400" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0400/31/iridium_12112-67-3">Chloro-1,5-cyclooctadiene iridium(I) dimer, 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0400/31/iridium_12112-67-3">12112-67-3</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0425/31/iridium_870987-63-6">77-0425</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0425.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0425" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0425/31/iridium_870987-63-6">(4,4'-Di-t-butyl-2,2'-bipyridine)bis[3,5-difluoro-2-[5-trifluoromethyl-<br />2-pyridinyl-kN)phenyl-kC]iridium(III) hexafluorophosphate, 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0425/31/iridium_870987-63-6">870987-63-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0410/31/iridium_676525-77-2">77-0410</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0410.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0410" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0410/31/iridium_676525-77-2">(4,4'-Di-t-butyl-2,2'-bipyridine)bis[2-(2-pyridinyl-kN)phenyl-kC]iridium(<br />III) hexafluorophosphate, 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0410/31/iridium_676525-77-2">676525-77-2</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/77-0468/31/iridium_870987-64-7">77-0468</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0468.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0468" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0468/31/iridium_870987-64-7">Di-µ-chlorotetrakis[3,5-difluoro-2-[5-trifluoromethyl-2-pyridinyl-kN)<br />phenyl-kC]diiridium(III), 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0468/31/iridium_870987-64-7">870987-64-7</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/77-0455/31/iridium_603109-48-4">77-0455</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/77-0455.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="77-0455" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/77-0455/31/iridium_603109-48-4">Di-µ-chlorotetrakis[2-(2-pyridinyl-kN)phenyl-kC]diiridium(III), 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/77-0455/31/iridium_603109-48-4">603109-48-4</a></td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                                            <table cellpadding="4" cellspacing="0" class="product_list tiles" summary="List of Iridium Kits">
+                            <tbody>
+                            <tr>
+                                <td colspan="3" class="product_toggle">
+                                    <a href="?display_products=list"><img src="/images/buttons/toggle_tile_up_large.gif" border="0" alt="Display Structure Images" /></a><br />
+                                    <em>View as List</em><br /><br />
+                                </td>
+                            </tr>
+                                                                <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0465/31/iridium_106294-60-4">
+                                                <img src="/uploads/web_structures/77-0465.gif" alt="77-0465" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0465/31/iridium_106294-60-4">
+                                                <div class="catalog_number">
+                                                    77-0465                                                 </div>
+                                                <div class="cas">
+                                                    106294-60-4                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0218/31/iridium_1607469-49-7">
+                                                <img src="/uploads/web_structures/77-0218.gif" alt="77-0218" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0218/31/iridium_1607469-49-7">
+                                                <div class="catalog_number">
+                                                    77-0218                                                 </div>
+                                                <div class="cas">
+                                                    1607469-49-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0220/31/iridium_1092775-62-6">
+                                                <img src="/uploads/web_structures/77-0220.gif" alt="77-0220" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0220/31/iridium_1092775-62-6">
+                                                <div class="catalog_number">
+                                                    77-0220                                                 </div>
+                                                <div class="cas">
+                                                    1092775-62-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0285/31/iridium_808142-80-5">
+                                                <img src="/uploads/web_structures/77-0285.gif" alt="77-0285" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0285/31/iridium_808142-80-5">
+                                                <div class="catalog_number">
+                                                    77-0285                                                 </div>
+                                                <div class="cas">
+                                                    808142-80-5                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-6100/31/iridium_370878-69-6">
+                                                <img src="/uploads/web_structures/77-6100.gif" alt="77-6100" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-6100/31/iridium_370878-69-6">
+                                                <div class="catalog_number">
+                                                    77-6100                                                 </div>
+                                                <div class="cas">
+                                                    370878-69-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-6580/31/iridium_500295-52-3">
+                                                <img src="/uploads/web_structures/77-6580.gif" alt="77-6580" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-6580/31/iridium_500295-52-3">
+                                                <div class="catalog_number">
+                                                    77-6580                                                 </div>
+                                                <div class="cas">
+                                                    500295-52-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-7015/31/iridium_94928-86-6">
+                                                <img src="/uploads/web_structures/77-7015.gif" alt="77-7015" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-7015/31/iridium_94928-86-6">
+                                                <div class="catalog_number">
+                                                    77-7015                                                 </div>
+                                                <div class="cas">
+                                                    94928-86-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-7030/31/iridium_387859-70-3">
+                                                <img src="/uploads/web_structures/77-7030.gif" alt="77-7030" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-7030/31/iridium_387859-70-3">
+                                                <div class="catalog_number">
+                                                    77-7030                                                 </div>
+                                                <div class="cas">
+                                                    387859-70-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0453/31/iridium_1092775-62-6">
+                                                <img src="/uploads/web_structures/77-0453.gif" alt="77-0453" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0453/31/iridium_1092775-62-6">
+                                                <div class="catalog_number">
+                                                    77-0453 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    1092775-62-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0320/31/iridium_808142-88-3">
+                                                <img src="/uploads/web_structures/77-0320.gif" alt="77-0320" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0320/31/iridium_808142-88-3">
+                                                <div class="catalog_number">
+                                                    77-0320 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    808142-88-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0330/31/iridium_1335047-34-1">
+                                                <img src="/uploads/web_structures/77-0330.gif" alt="77-0330" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0330/31/iridium_1335047-34-1">
+                                                <div class="catalog_number">
+                                                    77-0330 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    1335047-34-1                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0350/31/iridium_1072067-44-7">
+                                                <img src="/uploads/web_structures/77-0350.gif" alt="77-0350" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0350/31/iridium_1072067-44-7">
+                                                <div class="catalog_number">
+                                                    77-0350 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    1072067-44-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0370/31/iridium_1973375-72-2">
+                                                <img src="/uploads/web_structures/77-0370.gif" alt="77-0370" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0370/31/iridium_1973375-72-2">
+                                                <div class="catalog_number">
+                                                    77-0370 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    1973375-72-2                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0335/31/iridium_808142-89-4">
+                                                <img src="/uploads/web_structures/77-0335.gif" alt="77-0335" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0335/31/iridium_808142-89-4">
+                                                <div class="catalog_number">
+                                                    77-0335 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    808142-89-4                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0345/31/iridium_1335047-33-0">
+                                                <img src="/uploads/web_structures/77-0345.gif" alt="77-0345" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0345/31/iridium_1335047-33-0">
+                                                <div class="catalog_number">
+                                                    77-0345 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    1335047-33-0                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0365/31/iridium_562824-27-5">
+                                                <img src="/uploads/web_structures/77-0365.gif" alt="77-0365" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0365/31/iridium_562824-27-5">
+                                                <div class="catalog_number">
+                                                    77-0365 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    562824-27-5                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0360/31/iridium_2030437-90-0">
+                                                <img src="/uploads/web_structures/77-0360.gif" alt="77-0360" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0360/31/iridium_2030437-90-0">
+                                                <div class="catalog_number">
+                                                    77-0360 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    2030437-90-0                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0380/31/iridium">
+                                                <img src="/uploads/web_structures/77-0380.gif" alt="77-0380" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0380/31/iridium">
+                                                <div class="catalog_number">
+                                                    77-0380 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0340/31/iridium_2042201-18-1">
+                                                <img src="/uploads/web_structures/77-0340.gif" alt="77-0340" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0340/31/iridium_2042201-18-1">
+                                                <div class="catalog_number">
+                                                    77-0340 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    2042201-18-1                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0355/31/iridium_849723-04-2">
+                                                <img src="/uploads/web_structures/77-0355.gif" alt="77-0355" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0355/31/iridium_849723-04-2">
+                                                <div class="catalog_number">
+                                                    77-0355 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    849723-04-2                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-8030/31/iridium_562099-10-9">
+                                                <img src="/uploads/web_structures/77-8030.gif" alt="77-8030" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-8030/31/iridium_562099-10-9">
+                                                <div class="catalog_number">
+                                                    77-8030 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    562099-10-9                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0400/31/iridium_12112-67-3">
+                                                <img src="/uploads/web_structures/77-0400.gif" alt="77-0400" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0400/31/iridium_12112-67-3">
+                                                <div class="catalog_number">
+                                                    77-0400                                                 </div>
+                                                <div class="cas">
+                                                    12112-67-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0425/31/iridium_870987-63-6">
+                                                <img src="/uploads/web_structures/77-0425.gif" alt="77-0425" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0425/31/iridium_870987-63-6">
+                                                <div class="catalog_number">
+                                                    77-0425                                                 </div>
+                                                <div class="cas">
+                                                    870987-63-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0410/31/iridium_676525-77-2">
+                                                <img src="/uploads/web_structures/77-0410.gif" alt="77-0410" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0410/31/iridium_676525-77-2">
+                                                <div class="catalog_number">
+                                                    77-0410                                                 </div>
+                                                <div class="cas">
+                                                    676525-77-2                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0468/31/iridium_870987-64-7">
+                                                <img src="/uploads/web_structures/77-0468.gif" alt="77-0468" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0468/31/iridium_870987-64-7">
+                                                <div class="catalog_number">
+                                                    77-0468                                                 </div>
+                                                <div class="cas">
+                                                    870987-64-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/77-0455/31/iridium_603109-48-4">
+                                                <img src="/uploads/web_structures/77-0455.gif" alt="77-0455" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/77-0455/31/iridium_603109-48-4">
+                                                <div class="catalog_number">
+                                                    77-0455                                                 </div>
+                                                <div class="cas">
+                                                    603109-48-4                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                                </div>
+                        <div class="product_list_header">
+                <a href="#" onclick="toggleCatalogSection('1');  return false;" class="toggle_hidden"><img id="toggle_button_1" src="/images/buttons/slider_less.gif" alt="Close Section" /></a>
+                <span class="category"><a href="#" onclick="toggleCatalogSection('1');  return false;">Kits</a></span> <span class="name">&rsaquo; Compounds</span>
+            </div>
+            <div id="catalog_section_1" class="catalog_section">
+                                    <table cellpadding="4" cellspacing="0" class="product_list list" summary="List of Kits Compounds">
+                        <tbody>
+                                                <tr>
+                            <th class="catalog_number_header">Catalog Number</th>
+                            <th>&nbsp;</th>
+                            <th>Description</th>
+                            <th class="cas_header">CAS Number</th>
+                        </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/96-4450/33/ruthenium_photocatalyst_kit">96-4450</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-4450/33/ruthenium_photocatalyst_kit">Ruthenium Photocatalyst Kit</a></td>
+                                <td class="cas"><a href="/catalog/v/96-4450/33/ruthenium_photocatalyst_kit"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/96-7780/33/iridium_photocatalyst_kit_1">96-7780</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7780/33/iridium_photocatalyst_kit_1">Iridium Photocatalyst Kit 1</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7780/33/iridium_photocatalyst_kit_1"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/96-7795/33/iridium_photocatalyst_master_kit">96-7795</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7795/33/iridium_photocatalyst_master_kit">Iridium Photocatalyst Master Kit</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7795/33/iridium_photocatalyst_master_kit"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/96-7790/33/iridium_photocatalyst_kit_2">96-7790</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7790/33/iridium_photocatalyst_kit_2">Iridium Photocatalyst Kit 2</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7790/33/iridium_photocatalyst_kit_2"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/96-7510/33/evoluchem_photochemical_methylation_array_kit">96-7510</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7510/33/evoluchem_photochemical_methylation_array_kit">EvoluChem™ Photochemical Methylation Array Kit</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7510/33/evoluchem_photochemical_methylation_array_kit"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/96-7520/33/evoluchem_iridium_nickel_photoredox_base_and_solvent_screening_kit_1">96-7520</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7520/33/evoluchem_iridium_nickel_photoredox_base_and_solvent_screening_kit_1">EvoluChem™ Iridium/Nickel PhotoRedOx Base and Solvent Screening Kit 1</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7520/33/evoluchem_iridium_nickel_photoredox_base_and_solvent_screening_kit_1"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/96-7530/33/evoluchem_iridium_nickel_photoredox_base_and_ligand_screening_kit_1">96-7530</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7530/33/evoluchem_iridium_nickel_photoredox_base_and_ligand_screening_kit_1">EvoluChem™ Iridium/Nickel PhotoRedOx Base and Ligand Screening Kit 1</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7530/33/evoluchem_iridium_nickel_photoredox_base_and_ligand_screening_kit_1"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/96-7540/33/evoluchem_iridium_nickel_photoredox_base_and_ligand_screening_kit_2">96-7540</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7540/33/evoluchem_iridium_nickel_photoredox_base_and_ligand_screening_kit_2">EvoluChem™ Iridium/Nickel PhotoRedOx Base and Ligand Screening Kit 2</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7540/33/evoluchem_iridium_nickel_photoredox_base_and_ligand_screening_kit_2"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/96-7550/33/evoluchem_iridium_nickel_photoredox_base_and_iridium_catalyst_screening_kit">96-7550</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7550/33/evoluchem_iridium_nickel_photoredox_base_and_iridium_catalyst_screening_kit">EvoluChem™ Iridium/Nickel PhotoRedOx Base and Iridium Catalyst Screening Kit</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7550/33/evoluchem_iridium_nickel_photoredox_base_and_iridium_catalyst_screening_kit"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/96-7560/33/evoluchem_photocatalytic_alkylation_kit">96-7560</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7560/33/evoluchem_photocatalytic_alkylation_kit">EvoluChem™ Photocatalytic Alkylation Kit</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7560/33/evoluchem_photocatalytic_alkylation_kit"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/96-7570/33/evoluchem_iridium_nickel_photoredox_base_and_solvent_screening_kit_2_c-o_coupling">96-7570</a></td>
+                                <td class="structure">
+                                    &nbsp;                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/96-7570/33/evoluchem_iridium_nickel_photoredox_base_and_solvent_screening_kit_2_c-o_coupling">EvoluChem™ Iridium/Nickel PhotoRedOx Base and Solvent Screening Kit 2 (C-O coupling)</a></td>
+                                <td class="cas"><a href="/catalog/v/96-7570/33/evoluchem_iridium_nickel_photoredox_base_and_solvent_screening_kit_2_c-o_coupling"></a></td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                                </div>
+                        <div class="product_list_header">
+                <a href="#" onclick="toggleCatalogSection('2');  return false;" class="toggle_hidden"><img id="toggle_button_2" src="/images/buttons/slider_less.gif" alt="Close Section" /></a>
+                <span class="category"><a href="#" onclick="toggleCatalogSection('2');  return false;">Nitrogen</a></span> <span class="name">&rsaquo; Compounds</span>
+            </div>
+            <div id="catalog_section_2" class="catalog_section">
+                                    <table cellpadding="4" cellspacing="0" class="product_list list hide" summary="List of Nitrogen Compounds">
+                        <tbody>
+                                                    <tr>
+                                <td colspan="4" class="product_toggle">
+                                    <a href="?display_products=tile"><img src="/images/buttons/toggle_list_up_large.gif" border="0" alt="Display as List View" /></a><br />
+                                    <em>View Structures</em><br /><br />
+                                </td>
+                            </tr>
+                                                    <tr>
+                            <th class="catalog_number_header">Catalog Number</th>
+                            <th>&nbsp;</th>
+                            <th>Description</th>
+                            <th class="cas_header">CAS Number</th>
+                        </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-0750/48/nitrogen_10199-00-5">07-0750</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0750.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0750" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0750/48/nitrogen_10199-00-5">2,2'-Bipyrazine, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0750/48/nitrogen_10199-00-5">10199-00-5</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-1280/48/nitrogen_583052-21-5">07-1280</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1280.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1280" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1280/48/nitrogen_583052-21-5">2-(2,4-Difluorophenyl)-5-methylpyridine, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1280/48/nitrogen_583052-21-5">583052-21-5</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-1780/48/nitrogen_1008-89-5">07-1780</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1780.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1780" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1780/48/nitrogen_1008-89-5">2-Phenylpyridine, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1780/48/nitrogen_1008-89-5">1008-89-5</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-1923/48/nitrogen_92149-07-0">07-1923</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1923.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1923" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1923/48/nitrogen_92149-07-0">4,7-Dimethoxy-1,10-phenanthroline, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1923/48/nitrogen_92149-07-0">92149-07-0</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-2625/48/nitrogen_203065-88-7">07-2625</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-2625.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-2625" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-2625/48/nitrogen_203065-88-7">2-[4-(Trifluoromethyl)phenyl]pyridine, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-2625/48/nitrogen_203065-88-7">203065-88-7</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-1410/48/nitrogen_85237-65-6">07-1410</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1410.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1410" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1410/48/nitrogen_85237-65-6">2-(4-Fluorophenyl)-5-methylpyridine, min. 97%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1410/48/nitrogen_85237-65-6">85237-65-6</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-1420/48/nitrogen_391604-55-0">07-1420</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1420.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1420" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1420/48/nitrogen_391604-55-0">2-(2,4-Difluorophenyl)pyridine, min. 97%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1420/48/nitrogen_391604-55-0">391604-55-0</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-1425/48/nitrogen_142946-79-0">07-1425</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1425.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1425" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1425/48/nitrogen_142946-79-0">4,4'-Bis(trifluoromethyl)-2,2'-bipyridine, min. 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1425/48/nitrogen_142946-79-0">142946-79-0</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-1430/48/nitrogen_142946-80-3">07-1430</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1430.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1430" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1430/48/nitrogen_142946-80-3">5,5'-Bis(trifluoromethyl)-2,2'-bipyridine, min 97%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1430/48/nitrogen_142946-80-3">142946-80-3</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-1415/48/nitrogen_1426047-01-9">07-1415</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1415.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1415" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1415/48/nitrogen_1426047-01-9">2-(2,4-Difluorophenyl)-5-fluoropyridine, min 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1415/48/nitrogen_1426047-01-9">1426047-01-9</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-8225/48/nitrogen_2180894-90-8">07-8225</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-8225.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-8225" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-8225/48/nitrogen_2180894-90-8">3,6-Bis(dimethylamino)-9-mesityl-10-methylacridin-10-ium bromide, min. 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-8225/48/nitrogen_2180894-90-8">2180894-90-8</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-8230/48/nitrogen_2380163-04-0">07-8230</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-8230.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-8230" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-8230/48/nitrogen_2380163-04-0">3,6-Bis(dimethylamino)-9-(2,6-dimethylphenyl)-10-methylacridin-10-ium bromide, min. 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-8230/48/nitrogen_2380163-04-0">2380163-04-0</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-0481/48/nitrogen_1228032-35-6">07-0481</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0481.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0481" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0481/48/nitrogen_1228032-35-6">3,8-Bis[3,5-bis(trifluoromethyl)phenyl]-1,10-phenanthroline</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0481/48/nitrogen_1228032-35-6">1228032-35-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-0290/48/nitrogen_366-18-7">07-0290</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0290.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0290" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0290/48/nitrogen_366-18-7">2,2'-Bipyridine, 99+% BIPY</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0290/48/nitrogen_366-18-7">366-18-7</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-0273/48/nitrogen_72914-19-3">07-0273</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0273.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0273" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0273/48/nitrogen_72914-19-3">4,4'-Bis(di-t-butyl)-2,2'-bipyridine, 97% DTBBPY</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0273/48/nitrogen_72914-19-3">72914-19-3</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-0370/48/nitrogen_6813-38-3">07-0370</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0370.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0370" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0370/48/nitrogen_6813-38-3">4,4'-Dicarboxy-2,2'-bipyridine, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0370/48/nitrogen_6813-38-3">6813-38-3</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-4040/48/nitrogen_387827-64-7">07-4040</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-4040.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-4040" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-4040/48/nitrogen_387827-64-7">2-(2,4-Difluorophenyl)-5-(trifluoromethyl)pyridine, 98% dF(CF3)ppy</a></td>
+                                <td class="cas"><a href="/catalog/v/07-4040/48/nitrogen_387827-64-7">387827-64-7</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-0458/48/nitrogen_1134-35-6">07-0458</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0458.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0458" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0458/48/nitrogen_1134-35-6">4,4'-Dimethyl-2,2'-bipyridine, 99% DMBPY</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0458/48/nitrogen_1134-35-6">1134-35-6</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-0472/48/nitrogen_1662-01-7">07-0472</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-0472.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-0472" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-0472/48/nitrogen_1662-01-7">4,7-Diphenyl-1,10-phenanthroline, 99% (Bathophenanthroline)</a></td>
+                                <td class="cas"><a href="/catalog/v/07-0472/48/nitrogen_1662-01-7">1662-01-7</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/07-1650/48/nitrogen_66-71-7">07-1650</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1650.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1650" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1650/48/nitrogen_66-71-7">1,10-Phenanthroline, anhydrous, 99%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1650/48/nitrogen_66-71-7">66-71-7</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/07-1971/48/nitrogen_66127-00-2">07-1971</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/07-1971.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="07-1971" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/07-1971/48/nitrogen_66127-00-2">3,5,6,8-Tetrabromo-1,10-phenanthroline, 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/07-1971/48/nitrogen_66127-00-2">66127-00-2</a></td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                                            <table cellpadding="4" cellspacing="0" class="product_list tiles" summary="List of Nitrogen Kits">
+                            <tbody>
+                            <tr>
+                                <td colspan="3" class="product_toggle">
+                                    <a href="?display_products=list"><img src="/images/buttons/toggle_tile_up_large.gif" border="0" alt="Display Structure Images" /></a><br />
+                                    <em>View as List</em><br /><br />
+                                </td>
+                            </tr>
+                                                                <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0750/48/nitrogen_10199-00-5">
+                                                <img src="/uploads/web_structures/07-0750.gif" alt="07-0750" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0750/48/nitrogen_10199-00-5">
+                                                <div class="catalog_number">
+                                                    07-0750                                                 </div>
+                                                <div class="cas">
+                                                    10199-00-5                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1280/48/nitrogen_583052-21-5">
+                                                <img src="/uploads/web_structures/07-1280.gif" alt="07-1280" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1280/48/nitrogen_583052-21-5">
+                                                <div class="catalog_number">
+                                                    07-1280                                                 </div>
+                                                <div class="cas">
+                                                    583052-21-5                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1780/48/nitrogen_1008-89-5">
+                                                <img src="/uploads/web_structures/07-1780.gif" alt="07-1780" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1780/48/nitrogen_1008-89-5">
+                                                <div class="catalog_number">
+                                                    07-1780                                                 </div>
+                                                <div class="cas">
+                                                    1008-89-5                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1923/48/nitrogen_92149-07-0">
+                                                <img src="/uploads/web_structures/07-1923.gif" alt="07-1923" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1923/48/nitrogen_92149-07-0">
+                                                <div class="catalog_number">
+                                                    07-1923                                                 </div>
+                                                <div class="cas">
+                                                    92149-07-0                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-2625/48/nitrogen_203065-88-7">
+                                                <img src="/uploads/web_structures/07-2625.gif" alt="07-2625" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-2625/48/nitrogen_203065-88-7">
+                                                <div class="catalog_number">
+                                                    07-2625                                                 </div>
+                                                <div class="cas">
+                                                    203065-88-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1410/48/nitrogen_85237-65-6">
+                                                <img src="/uploads/web_structures/07-1410.gif" alt="07-1410" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1410/48/nitrogen_85237-65-6">
+                                                <div class="catalog_number">
+                                                    07-1410 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    85237-65-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1420/48/nitrogen_391604-55-0">
+                                                <img src="/uploads/web_structures/07-1420.gif" alt="07-1420" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1420/48/nitrogen_391604-55-0">
+                                                <div class="catalog_number">
+                                                    07-1420 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    391604-55-0                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1425/48/nitrogen_142946-79-0">
+                                                <img src="/uploads/web_structures/07-1425.gif" alt="07-1425" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1425/48/nitrogen_142946-79-0">
+                                                <div class="catalog_number">
+                                                    07-1425 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    142946-79-0                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1430/48/nitrogen_142946-80-3">
+                                                <img src="/uploads/web_structures/07-1430.gif" alt="07-1430" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1430/48/nitrogen_142946-80-3">
+                                                <div class="catalog_number">
+                                                    07-1430 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    142946-80-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1415/48/nitrogen_1426047-01-9">
+                                                <img src="/uploads/web_structures/07-1415.gif" alt="07-1415" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1415/48/nitrogen_1426047-01-9">
+                                                <div class="catalog_number">
+                                                    07-1415 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    1426047-01-9                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-8225/48/nitrogen_2180894-90-8">
+                                                <img src="/uploads/web_structures/07-8225.gif" alt="07-8225" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-8225/48/nitrogen_2180894-90-8">
+                                                <div class="catalog_number">
+                                                    07-8225 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    2180894-90-8                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-8230/48/nitrogen_2380163-04-0">
+                                                <img src="/uploads/web_structures/07-8230.gif" alt="07-8230" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-8230/48/nitrogen_2380163-04-0">
+                                                <div class="catalog_number">
+                                                    07-8230 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    2380163-04-0                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0481/48/nitrogen_1228032-35-6">
+                                                <img src="/uploads/web_structures/07-0481.gif" alt="07-0481" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0481/48/nitrogen_1228032-35-6">
+                                                <div class="catalog_number">
+                                                    07-0481                                                 </div>
+                                                <div class="cas">
+                                                    1228032-35-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0290/48/nitrogen_366-18-7">
+                                                <img src="/uploads/web_structures/07-0290.gif" alt="07-0290" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0290/48/nitrogen_366-18-7">
+                                                <div class="catalog_number">
+                                                    07-0290                                                 </div>
+                                                <div class="cas">
+                                                    366-18-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0273/48/nitrogen_72914-19-3">
+                                                <img src="/uploads/web_structures/07-0273.gif" alt="07-0273" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0273/48/nitrogen_72914-19-3">
+                                                <div class="catalog_number">
+                                                    07-0273                                                 </div>
+                                                <div class="cas">
+                                                    72914-19-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0370/48/nitrogen_6813-38-3">
+                                                <img src="/uploads/web_structures/07-0370.gif" alt="07-0370" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0370/48/nitrogen_6813-38-3">
+                                                <div class="catalog_number">
+                                                    07-0370                                                 </div>
+                                                <div class="cas">
+                                                    6813-38-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-4040/48/nitrogen_387827-64-7">
+                                                <img src="/uploads/web_structures/07-4040.gif" alt="07-4040" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-4040/48/nitrogen_387827-64-7">
+                                                <div class="catalog_number">
+                                                    07-4040                                                 </div>
+                                                <div class="cas">
+                                                    387827-64-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0458/48/nitrogen_1134-35-6">
+                                                <img src="/uploads/web_structures/07-0458.gif" alt="07-0458" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0458/48/nitrogen_1134-35-6">
+                                                <div class="catalog_number">
+                                                    07-0458                                                 </div>
+                                                <div class="cas">
+                                                    1134-35-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-0472/48/nitrogen_1662-01-7">
+                                                <img src="/uploads/web_structures/07-0472.gif" alt="07-0472" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-0472/48/nitrogen_1662-01-7">
+                                                <div class="catalog_number">
+                                                    07-0472                                                 </div>
+                                                <div class="cas">
+                                                    1662-01-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1650/48/nitrogen_66-71-7">
+                                                <img src="/uploads/web_structures/07-1650.gif" alt="07-1650" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1650/48/nitrogen_66-71-7">
+                                                <div class="catalog_number">
+                                                    07-1650                                                 </div>
+                                                <div class="cas">
+                                                    66-71-7                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/07-1971/48/nitrogen_66127-00-2">
+                                                <img src="/uploads/web_structures/07-1971.gif" alt="07-1971" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/07-1971/48/nitrogen_66127-00-2">
+                                                <div class="catalog_number">
+                                                    07-1971                                                 </div>
+                                                <div class="cas">
+                                                    66127-00-2                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                                </div>
+                        <div class="product_list_header">
+                <a href="#" onclick="toggleCatalogSection('3');  return false;" class="toggle_hidden"><img id="toggle_button_3" src="/images/buttons/slider_less.gif" alt="Close Section" /></a>
+                <span class="category"><a href="#" onclick="toggleCatalogSection('3');  return false;">Photochemical Equipment</a></span> <span class="name">&rsaquo; Other</span>
+            </div>
+            <div id="catalog_section_3" class="catalog_section">
+                                    <table cellpadding="4" cellspacing="0" class="product_list list hide" summary="List of Photochemical Equipment Other">
+                        <tbody>
+                                                    <tr>
+                                <td colspan="4" class="product_toggle">
+                                    <a href="?display_products=tile"><img src="/images/buttons/toggle_list_up_large.gif" border="0" alt="Display as List View" /></a><br />
+                                    <em>View Structures</em><br /><br />
+                                </td>
+                            </tr>
+                                                    <tr>
+                            <th class="catalog_number_header">Catalog Number</th>
+                            <th>&nbsp;</th>
+                            <th>Description</th>
+                            <th class="cas_header">CAS Number</th>
+                        </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7500/109/photochemical_equipment">98-7500</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7500.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7500" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7500/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box, 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7500/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7600/109/photochemical_equipment">98-7600</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7600.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7600" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7600/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Photochemistry Holder - 32 x 0.3 ml vials</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7600/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7650/109/photochemical_equipment">98-7650</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7650.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7650" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7650/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Photochemistry Holder - 8 x 2 ml vials</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7650/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7700/109/photochemical_equipment">98-7700</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7700.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7700" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7700/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Photochemistry Holder - 8 x 8 ml vials</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7700/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7800/109/photochemical_equipment">98-7800</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7800.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7800" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7800/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 450nm, Electric Power 18W, 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7800/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7900/109/photochemical_equipment">98-7900</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7900.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7900" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7900/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 425nm, Electric Power 18W, 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7900/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7950/109/photochemical_equipment">98-7950</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7950.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7950" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7950/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 365nm, Electric Power 18W, 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7950/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7780/109/photochemical_equipment">98-7780</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7780.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7780" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7780/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Photochemistry Holder - 2 x 20 ml vials</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7780/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7975/109/photochemical_equipment">98-7975</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7975.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7975" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7975/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Electric Power PAR20-18W, LG, Wavelength 380nm, 25 degrees, 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7975/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7850/109/photochemical_equipment">98-7850</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7850.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7850" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7850/109/photochemical_equipment">EvoluChem™ Light proofing upgrade</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7850/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7790/109/photochemical_equipment">98-7790</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7790.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7790" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7790/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Photochemistry Holder - 8 x 4 ml vials</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7790/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7550/109/photochemical_equipment">98-7550</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7550.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7550" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7550/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box (Temperature controlled), 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7550/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7880/109/photochemical_equipment">98-7880</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7880.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7880" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7880/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 405nm, Electric Power 18W, 220V, Type C plug (EU electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7880/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7820/109/photochemical_equipment">98-7820</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7820.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7820" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7820/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 405nm, Electric Power 18W, 110V, Type A plug (USA electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7820/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/98-7955/109/photochemical_equipment">98-7955</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7955.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7955" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7955/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 365nm, Electric Power 18W, 220V, Type C plug (EU electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7955/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/98-7805/109/photochemical_equipment">98-7805</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/98-7805.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="98-7805" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/98-7805/109/photochemical_equipment">EvoluChem™ PhotoRedOx Box Light Source - Wavelength 450nm, Electric Power 18W, 220V, Type C plug (EU electrical outlet)</a></td>
+                                <td class="cas"><a href="/catalog/v/98-7805/109/photochemical_equipment"></a></td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                                            <table cellpadding="4" cellspacing="0" class="product_list tiles" summary="List of Photochemical Equipment Kits">
+                            <tbody>
+                            <tr>
+                                <td colspan="3" class="product_toggle">
+                                    <a href="?display_products=list"><img src="/images/buttons/toggle_tile_up_large.gif" border="0" alt="Display Structure Images" /></a><br />
+                                    <em>View as List</em><br /><br />
+                                </td>
+                            </tr>
+                                                                <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7500/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7500.gif" alt="98-7500" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7500/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7500 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7600/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7600.gif" alt="98-7600" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7600/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7600 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7650/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7650.gif" alt="98-7650" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7650/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7650 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7700/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7700.gif" alt="98-7700" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7700/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7700 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7800/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7800.gif" alt="98-7800" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7800/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7800 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7900/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7900.gif" alt="98-7900" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7900/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7900 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7950/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7950.gif" alt="98-7950" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7950/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7950 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7780/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7780.gif" alt="98-7780" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7780/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7780 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7975/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7975.gif" alt="98-7975" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7975/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7975 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7850/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7850.gif" alt="98-7850" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7850/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7850 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7790/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7790.gif" alt="98-7790" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7790/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7790 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7550/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7550.gif" alt="98-7550" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7550/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7550 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7880/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7880.gif" alt="98-7880" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7880/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7880 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7820/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7820.gif" alt="98-7820" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7820/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7820 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7955/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7955.gif" alt="98-7955" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7955/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7955 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/98-7805/109/photochemical_equipment">
+                                                <img src="/uploads/web_structures/98-7805.gif" alt="98-7805" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/98-7805/109/photochemical_equipment">
+                                                <div class="catalog_number">
+                                                    98-7805 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                                                                    </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                                </div>
+                        <div class="product_list_header">
+                <a href="#" onclick="toggleCatalogSection('4');  return false;" class="toggle_hidden"><img id="toggle_button_4" src="/images/buttons/slider_less.gif" alt="Close Section" /></a>
+                <span class="category"><a href="#" onclick="toggleCatalogSection('4');  return false;">Ruthenium</a></span> <span class="name">&rsaquo; Compounds</span>
+            </div>
+            <div id="catalog_section_4" class="catalog_section">
+                                    <table cellpadding="4" cellspacing="0" class="product_list list hide" summary="List of Ruthenium Compounds">
+                        <tbody>
+                                                    <tr>
+                                <td colspan="4" class="product_toggle">
+                                    <a href="?display_products=tile"><img src="/images/buttons/toggle_list_up_large.gif" border="0" alt="Display as List View" /></a><br />
+                                    <em>View Structures</em><br /><br />
+                                </td>
+                            </tr>
+                                                    <tr>
+                            <th class="catalog_number_header">Catalog Number</th>
+                            <th>&nbsp;</th>
+                            <th>Description</th>
+                            <th class="cas_header">CAS Number</th>
+                        </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/44-7910/59/ruthenium_80907-56-8">44-7910</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/44-7910.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="44-7910" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/44-7910/59/ruthenium_80907-56-8">Tris(2,2'-bipyrazine)ruthenium(II) hexafluorophosphate, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/44-7910/59/ruthenium_80907-56-8">80907-56-8</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/44-7930/59/ruthenium_83605-44-1">44-7930</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/44-7930.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="44-7930" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/44-7930/59/ruthenium_83605-44-1">Tris(4,4'-dimethyl-2,2'-bipyridine)ruthenium(II) hexafluorophosphate, 95%, DMBPY</a></td>
+                                <td class="cas"><a href="/catalog/v/44-7930/59/ruthenium_83605-44-1">83605-44-1</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/44-7940/59/ruthenium_75777-87-6">44-7940</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/44-7940.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="44-7940" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/44-7940/59/ruthenium_75777-87-6">Tris[4,4'-bis(t-butyl)-2,2'-bipyridine]ruthenium(II) hexafluorophosphate, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/44-7940/59/ruthenium_75777-87-6">75777-87-6</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/44-7955/59/ruthenium_60804-75-3">44-7955</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/44-7955.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="44-7955" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/44-7955/59/ruthenium_60804-75-3">Tris(1,10-phenanthroline)ruthenium(II) hexafluorophosphate, 95%</a></td>
+                                <td class="cas"><a href="/catalog/v/44-7955/59/ruthenium_60804-75-3">60804-75-3</a></td>
+                            </tr>
+                                                    <tr class="odd">
+                                <td class="catalog_number"><a href="/catalog/v/44-8033/59/ruthenium_60804-74-2">44-8033</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/44-8033.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="44-8033" class="thumbnail" /></a>                                    <div><img src="/images/icons/all_new.gif" alt="All New" class="icon" /></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/44-8033/59/ruthenium_60804-74-2">Tris(2,2'-bipyridine)ruthenium(II) hexafluorophosphate, 97%</a></td>
+                                <td class="cas"><a href="/catalog/v/44-8033/59/ruthenium_60804-74-2">60804-74-2</a></td>
+                            </tr>
+                                                    <tr class="even">
+                                <td class="catalog_number"><a href="/catalog/v/44-7900/59/ruthenium_50525-27-4">44-7900</a></td>
+                                <td class="structure">
+                                    <a href="/uploads/web_structures/44-7900.gif" class="preview"><img src="/images/assets/structure_thumbnail.gif" alt="44-7900" class="thumbnail" /></a>                                    <div></div>
+                                </td>
+                                <td class="description"><a href="/catalog/v/44-7900/59/ruthenium_50525-27-4">Tris(2,2'-bipyridyl)ruthenium(II) chloride hexahydrate, min. 98%</a></td>
+                                <td class="cas"><a href="/catalog/v/44-7900/59/ruthenium_50525-27-4">50525-27-4</a></td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                                            <table cellpadding="4" cellspacing="0" class="product_list tiles" summary="List of Ruthenium Kits">
+                            <tbody>
+                            <tr>
+                                <td colspan="3" class="product_toggle">
+                                    <a href="?display_products=list"><img src="/images/buttons/toggle_tile_up_large.gif" border="0" alt="Display Structure Images" /></a><br />
+                                    <em>View as List</em><br /><br />
+                                </td>
+                            </tr>
+                                                                <tr class="odd">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/44-7910/59/ruthenium_80907-56-8">
+                                                <img src="/uploads/web_structures/44-7910.gif" alt="44-7910" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/44-7910/59/ruthenium_80907-56-8">
+                                                <div class="catalog_number">
+                                                    44-7910                                                 </div>
+                                                <div class="cas">
+                                                    80907-56-8                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/44-7930/59/ruthenium_83605-44-1">
+                                                <img src="/uploads/web_structures/44-7930.gif" alt="44-7930" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/44-7930/59/ruthenium_83605-44-1">
+                                                <div class="catalog_number">
+                                                    44-7930                                                 </div>
+                                                <div class="cas">
+                                                    83605-44-1                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/44-7940/59/ruthenium_75777-87-6">
+                                                <img src="/uploads/web_structures/44-7940.gif" alt="44-7940" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/44-7940/59/ruthenium_75777-87-6">
+                                                <div class="catalog_number">
+                                                    44-7940                                                 </div>
+                                                <div class="cas">
+                                                    75777-87-6                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                                    <tr class="even">
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/44-7955/59/ruthenium_60804-75-3">
+                                                <img src="/uploads/web_structures/44-7955.gif" alt="44-7955" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/44-7955/59/ruthenium_60804-75-3">
+                                                <div class="catalog_number">
+                                                    44-7955                                                 </div>
+                                                <div class="cas">
+                                                    60804-75-3                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/44-8033/59/ruthenium_60804-74-2">
+                                                <img src="/uploads/web_structures/44-8033.gif" alt="44-8033" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/44-8033/59/ruthenium_60804-74-2">
+                                                <div class="catalog_number">
+                                                    44-8033 <img src="/images/icons/all_new.gif" alt="All New" class="icon" />                                                </div>
+                                                <div class="cas">
+                                                    60804-74-2                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                <td>
+                                    <div class="product_container">
+                                        <div class="product_image">
+                                            <a href="/catalog/v/44-7900/59/ruthenium_50525-27-4">
+                                                <img src="/uploads/web_structures/44-7900.gif" alt="44-7900" class="structure" />                                            </a>
+                                        </div>
+                                        <div class="product_links">
+                                            <a href="/catalog/v/44-7900/59/ruthenium_50525-27-4">
+                                                <div class="catalog_number">
+                                                    44-7900                                                 </div>
+                                                <div class="cas">
+                                                    50525-27-4                                                </div>
+                                                <div class="clear"></div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                                </div>
+            </div>
+<div class="document_section">
+    </div>
+<div class="fix_float"></div>
+
+			</div>
+			<div class="secondary_column">
+				<div>
+	<a href="/catalog/request_catalog.php" class="request"><img src="/images/buttons/sidebar_catalog.jpg" alt="Request the Strem Chemicals Catalog" style="padding-left: 20px; padding-top: 20px;"/></a>
+	<a href="/catalog/quote.php"><img src="/images/buttons/bulk_quote.jpg" alt="Bulk Quote Request" style="padding-left: 22px;" /></a>
+	<a href="/account/preferences.php?qu=1"><img src="/images/buttons/quarterly_updates.jpg" alt="Get Quarterly Updates by Email" style="padding-left: 23px;"/></a>
+</div>
+	<div class="new_product_key">
+		<h3>New at Strem</h3>
+		<div class="top">
+			<a href="/new_products/index.php?type=1_month">
+				<img src="/images/icons/new_1_month.gif" alt="New this month" class="icon" /> New this month
+			</a>
+		</div>
+		<div>
+			<a href="/new_products/index.php?type=3_months">
+				<img src="/images/icons/new_3_months.gif" alt="New in last 3 months" class="icon" /> New in last 3 months
+			</a>
+		</div>
+		<div class="bottom">
+			<a href="/new_products/index.php?type=latest">
+				<img src="/images/icons/all_new.gif" alt="All new" class="icon" /> New <small>(not in print catalog)</small>
+			</a>
+		</div>
+
+	</div>
+				</div>
+			<div class="fix_float"></div>
+		</div>
+	</div>
+	<div id="footer">
+		<div id="frame_footer"></div>
+		<div id="addresses">
+	<ul>
+		<li class="address_us">
+			Strem (USA)<br />
+			7 Mulliken Way<br />
+			Newburyport, MA 01950-4098 USA<br />
+			<span class="no_em">Tel: (978) 499 1600</span><br />
+			<span class="no_em">Fax: (978) 465 3104</span><br />
+			Toll free (in USA &amp; Canada)<br />
+			<span class="no_em">Tel: (800) 647 8736</span><br />
+			<span class="no_em">Fax: (800) 517 8736</span><br />
+			<a href="mailto:info@ascensusspecialties.com">info@ascensusspecialties.com</a>
+		</li>
+		<li id="address_fr">
+			Strem (Europe)<br />
+			15 rue de l'Atome, Z.I.<br />
+			67800 BISCHHEIM (France)<br />
+			<span class="no_em">Tel: (33) 03 88 62 52 60</span><br />
+			<span class="no_em">Fax: (33) 03 88 62 26 81</span><br />
+			<a href="mailto:info-europe@ascensusspecialties.com">info-europe@ascensusspecialties.com</a>
+		</li>
+		<li class="address_us">
+			Ascensus Specialties<br />
+			Global Headquarters<br />
+			2821 Northup Way, Suite 275<br />
+			Bellevue, WA 98004<br />
+			<span class="no_em">Tel: (425) 448 1679 / TF</span><br />
+			<span class="no_em">Tel: (888) 797 9362</span><br />
+			<a href="mailto:ask@ascensusspecialties.com">ask@ascensusspecialties.com</a>
+			<a href="https://www.ascensusspecialties.com/">www.ascensusspecialties.com</a>
+		</li>
+		<li id="address_gb">
+			Wychem Ltd.<br />
+			<em><span class="tagline">Part of Ascensus Specialties</span></em><br />
+			Haverhill Road<br />
+			Stradishall Newmarket<br />
+			Suffolk, CB8 9EX,<br />
+			United Kingdom<br />
+			<span class="no_em">Tel: +44 (0)1223 873 028</span><br />
+			<span class="no_em">Fax: +44 (0)1223 870 207</span><br />
+			<a href="mailto:info-uk@ascensusspecialties.com">info-uk@ascensusspecialties.com</a>
+		</li>
+	</ul>
+	<div class="fix_float"></div>
+</div>
+	</div>
+	<div id="copyright">
+	<div id="social_media">
+	<div class="button">
+		<img src="/images/icons/twitter_icon.png" alt="Twitter">
+		<a href="https://twitter.com/stremchemicals"></a>
+	</div>
+	<div class="button">
+		<img src="/images/icons/linked_in_icon.png" alt="LinkedIn">
+		<a href="https://www.linkedin.com/company/strem-chemicals"></a>
+	</div>
+	<div class="button">
+		<img src="/images/icons/instagram.png" alt="Instagram">
+		<a href="https://www.instagram.com/stremchemicals/"></a>
+	</div>
+</div>
+	<span id="copy_navigation">
+		<a href="/index.php">Home</a> |
+		<a href="/catalog/">Catalog</a> |
+		<a href="/new_products/">New Products</a> |
+		<a href="/custom_synthesis/">Custom Synthesis</a> |
+		<a href="/product_resources/">Product Resources</a> |
+		<a href="/about/privacy.php">Privacy Policy</a> |
+		<a href="/downloads/Employment_Application.pdf">Careers</a> |
+		<a href="/about/">About</a>
+	</span>
+	&copy;2023 Strem | <a href="/about/terms.php">Terms of use</a>
+</div>
+</body>
+</html>
